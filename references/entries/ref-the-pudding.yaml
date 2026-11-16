@@ -1,0 +1,70 @@
+id: ref-the-pudding
+title: The Pudding
+url: https://pudding.cool/
+creator: The Pudding team
+source_reports:
+- interactive-learning
+- beyond-dashboards
+categories:
+- data-journalism
+- visual-essay
+- scrollytelling
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- bold editorial typography
+- bespoke chart forms per story
+interaction_patterns:
+- scrollytelling
+- personal input
+- playful exploration
+description: A whole newsroom that consistently treats culture, society and data journalism as visual essays (e.g.
+  music history, cultural borders of songs, banknotes, Flipbook Experiment).
+why_it_works: 'Both reports cite it – Report 19 as the positive pattern for "Lead with meaning": a statement first,
+  then data as evidence.'
+best_suited_for:
+- cultural and social topics
+- public storytelling
+- campaign sites
+limitations: []
+library_notes: []
+patterns:
+- pat-scroll-driven-construction
+- pat-narrate-then-explore
+- pat-personalised-data-experience
+keywords:
+- data journalism
+- culture
+- music
+- visual essay
+- editorial
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-023
+  section: Top-Auswahl
+  excerpt: 'Projekt: The Pudding | Warum es herausragt: Eine ganze Redaktion, die Kultur, Gesellschaft und Datenjournalismus
+    konsequent als visuelle Essays denkt. | Ästh.: 10 | Int.: 8 | Did.: 9 | Orig.: 10 | MLU: 7'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-151
+  section: Inspirationsquellen und Grenzen der Recherche
+  excerpt: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-005
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: The Pudding — The Pudding, aktiv 2026 | Informations- und Interaktionsprinzip:
+    Visuelle Essays, Scrollytelling, Custom Interactions | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Eine der wichtigsten Referenzen für „Narrative statt Dashboard“: Veröffentlichung versteht sich explizit als
+    visuelle Datenstory mit These. | Innovation / Transfer: 10 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

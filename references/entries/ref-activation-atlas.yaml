@@ -1,0 +1,55 @@
+id: ref-activation-atlas
+title: Activation Atlas
+url: https://distill.pub/2019/activation-atlas/
+creator: Distill (Carter, Armstrong, Schubert, Johnson, Olah)
+source_reports:
+- interactive-learning
+categories:
+- knowledge-map
+- research-publication
+- ml-education
+design_language: research-native
+availability: archived
+visual_characteristics:
+- zoomable landscape of neural-network features
+interaction_patterns:
+- pan and zoom across scales
+- inspect regions
+description: Neural-network features organised as a zoomable landscape; research and information design merge.
+why_it_works: A multi-scale atlas lets readers move between overview and individual feature without losing context.
+best_suited_for:
+- large collections
+- embeddings
+- catalogues with similarity structure
+limitations:
+- Report caveat – Distill is paused but archived.
+library_notes: []
+patterns:
+- pat-semantic-landscape
+keywords:
+- atlas
+- zoom
+- embedding
+- neural network
+- features
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-008
+  section: Top-Auswahl
+  excerpt: 'Projekt: Activation Atlas | Warum es herausragt: Neural-Network-Features werden als zoombare Landschaft
+    organisiert; Forschung und Informationsdesign verschmelzen. | Ästh.: 10 | Int.: 10 | Did.: 9 | Orig.: 10 | MLU:
+    10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-087
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: Activation Atlas | Thema: CNNs | Charakter: Feature-Raum als navigierbare Atlaslandschaft.
+    | Ästh.: 10 | Int.: 10 | MLU: 10 | Typ: Explorable Paper'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

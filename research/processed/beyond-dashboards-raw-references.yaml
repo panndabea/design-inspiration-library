@@ -1,0 +1,875 @@
+report: beyond-dashboards
+topic: Beyond Dashboards
+title: Beyond Dashboards – Die Zukunft visueller Informationssysteme
+original: research/original/beyond-dashboards/deep-research-report-19.md
+original_sha256: 81209cc8ebf256001c55f82644d6b668af76216050bbe168501ba1ff31e55dcd
+language: de
+reference_count: 66
+references:
+- raw_id: beyond-dashboards-001
+  title: Information is Beautiful
+  url: https://informationisbeautiful.net/
+  section: Curated Inspiration Library
+  line: 19
+  kind: table-row
+  fields:
+    '#': '1'
+    Referenz, Urheber, Stand: Information is Beautiful — David McCandless, seit 2009, aktiv 2026
+    Informations- und Interaktionsprinzip: Konzeptgetriebene visuelle Verdichtung von Daten, Wissen und Argumenten
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Macht aus Daten visuelle Aussagen statt
+      KPI-Sammlungen. Stärke: Kontext und Memorierbarkeit; Schwäche: viele Arbeiten sind kuratiert statt explorativ.
+      Transfer: executive Erklärbilder und Insight Cards.'
+    Innovation / Transfer: 9 / 8
+- raw_id: beyond-dashboards-002
+  title: What Makes a Good Data Visualization?
+  url: https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+  section: Curated Inspiration Library
+  line: 20
+  kind: table-row
+  fields:
+    '#': '2'
+    Referenz, Urheber, Stand: What Makes a Good Data Visualization? — McCandless
+    Informations- und Interaktionsprinzip: Framework für Daten, Story, Goal und Visual Form
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Relevant, weil Visualisierung nicht vom Charttyp,
+      sondern von Zweck, Information und Story gedacht wird. Gute Grundlage für ein automatisiertes Visual-Selection-System.
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-003
+  title: Based on a *True* True Story?
+  url: https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/
+  section: Curated Inspiration Library
+  line: 21
+  kind: table-row
+  fields:
+    '#': '3'
+    Referenz, Urheber, Stand: Based on a *True* True Story? — Information is Beautiful
+    Informations- und Interaktionsprinzip: Filme werden Szene für Szene entlang einer Zeitachse nach Faktentreue
+      analysiert
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Beispiel dafür, wie abstrakte Bewertung
+      in eine visuelle Erzählstruktur eingebettet wird. Enterprise-Transfer: Audit Trails, Projekthistorien, Prozessabweichungen.'
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-004
+  title: Out of Your Hands
+  url: https://informationisbeautiful.net/visualizations/out-of-your-hands/
+  section: Curated Inspiration Library
+  line: 22
+  kind: table-row
+  fields:
+    '#': '4'
+    Referenz, Urheber, Stand: Out of Your Hands — Information is Beautiful
+    Informations- und Interaktionsprinzip: Beziehungen und Wahrscheinlichkeiten statt Einzelmetriken
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Unterstützt relationales Denken. Limitation:
+      Wahrscheinlichkeit kann ohne Erklärung überinterpretiert werden. Transfer: Risk Maps und Einflussnetze.'
+    Innovation / Transfer: 8 / 7
+- raw_id: beyond-dashboards-005
+  title: The Pudding
+  url: https://pudding.cool/
+  section: Curated Inspiration Library
+  line: 23
+  kind: table-row
+  fields:
+    '#': '5'
+    Referenz, Urheber, Stand: The Pudding — The Pudding, aktiv 2026
+    Informations- und Interaktionsprinzip: Visuelle Essays, Scrollytelling, Custom Interactions
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Eine der wichtigsten Referenzen für „Narrative
+      statt Dashboard“: Veröffentlichung versteht sich explizit als visuelle Datenstory mit These.'
+    Innovation / Transfer: 10 / 9
+- raw_id: beyond-dashboards-006
+  title: How Bad Is Your Streaming Music?
+  url: https://pudding.cool/2021/10/judge-my-music/
+  section: Curated Inspiration Library
+  line: 24
+  kind: table-row
+  fields:
+    '#': '6'
+    Referenz, Urheber, Stand: How Bad Is Your Streaming Music? — The Pudding, 2021
+    Informations- und Interaktionsprinzip: Personalisierte, dialogartige Exploration eigener Musikdaten
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Daten werden zur individuellen Experience
+      statt zur generischen Übersicht. Transfer: persönliches Management-Briefing anhand Rollen- und Kontextdaten.'
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-007
+  title: The Flipbook Experiment
+  url: https://pudding.cool/projects/flipbook/
+  section: Curated Inspiration Library
+  line: 25
+  kind: table-row
+  fields:
+    '#': '7'
+    Referenz, Urheber, Stand: The Flipbook Experiment — The Pudding
+    Informations- und Interaktionsprinzip: Crowdsourcing plus visuell-interaktive Koordination
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Zeigt datengetriebene Beteiligung. Das Projekt
+      nennt selbst Accessibility-Einschränkungen für blinde Nutzer — ein wichtiger Gegenpunkt zu „visuell = automatisch
+      besser“.
+    Innovation / Transfer: 8 / 5
+- raw_id: beyond-dashboards-008
+  title: Data Clocks
+  url: https://pudding.cool/projects/clocks/
+  section: Curated Inspiration Library
+  line: 26
+  kind: table-row
+  fields:
+    '#': '8'
+    Referenz, Urheber, Stand: Data Clocks — The Pudding
+    Informations- und Interaktionsprinzip: Generative Visualisierung desselben Inputs durch verschiedene visuelle
+      Regeln
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Gute Referenz für die Idee, dass ein Datensatz
+      nicht „den“ richtigen Chart besitzt. Transfer: mehrere automatisch erzeugte Perspektiven auf dieselbe Situation.'
+    Innovation / Transfer: 8 / 7
+- raw_id: beyond-dashboards-009
+  title: Our World in Data Grapher
+  url: https://ourworldindata.org/grapher
+  section: Curated Inspiration Library
+  line: 27
+  kind: table-row
+  fields:
+    '#': '9'
+    Referenz, Urheber, Stand: Our World in Data Grapher — OWID, redesign 2023
+    Informations- und Interaktionsprinzip: Chart, Map und Tabelle als wechselbare Ansichten; Exploration, Download,
+      Quellen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Besonders stark ist die Trennung aus narrativer
+      Einbettung und optionaler Exploration. Das 2023-Redesign stärkte View-Wechsel, Quellen und Fullscreen Exploration.
+    Innovation / Transfer: 8 / 10
+- raw_id: beyond-dashboards-010
+  title: Training computation vs parameters
+  url: https://ourworldindata.org/grapher/training-computation-vs-parameters-in-notable-ai-systems
+  section: Curated Inspiration Library
+  line: 28
+  kind: table-row
+  fields:
+    '#': '10'
+    Referenz, Urheber, Stand: Training computation vs parameters — OWID
+    Informations- und Interaktionsprinzip: Multivariate Scatter-/Zeit-Exploration
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Beziehung statt KPI. Transfer: Portfolio-
+      und Effizienzanalysen mit mehreren Dimensionen.'
+    Innovation / Transfer: 6 / 9
+- raw_id: beyond-dashboards-011
+  title: Population by age group
+  url: https://ourworldindata.org/grapher/population-by-age-group
+  section: Curated Inspiration Library
+  line: 29
+  kind: table-row
+  fields:
+    '#': '11'
+    Referenz, Urheber, Stand: Population by age group — OWID
+    Informations- und Interaktionsprinzip: Zeit + Bevölkerungskomposition
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Wechselbare Perspektiven und eigene Länderwahl
+      statt statischem Report. Transfer: Workforce- und Portfolioentwicklung.'
+    Innovation / Transfer: 6 / 8
+- raw_id: beyond-dashboards-012
+  title: FlowingData Projects
+  url: https://projects.flowingdata.com/
+  section: Curated Inspiration Library
+  line: 30
+  kind: table-row
+  fields:
+    '#': '12'
+    Referenz, Urheber, Stand: FlowingData Projects — Nathan Yau
+    Informations- und Interaktionsprinzip: Karten, Apps, experimentelle Visualisierungen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Referenzsammlung für maßgeschneiderte Formen
+      jenseits Standard-BI. Limitation: heterogene Evaluation.'
+    Innovation / Transfer: 8 / 7
+- raw_id: beyond-dashboards-013
+  title: Datawrapper River
+  url: https://river.datawrapper.de/
+  section: Curated Inspiration Library
+  line: 31
+  kind: table-row
+  fields:
+    '#': '13'
+    Referenz, Urheber, Stand: Datawrapper River — Datawrapper
+    Informations- und Interaktionsprinzip: Community-Katalog wiederverwendbarer Visualisierungen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Interessant als „Visual Pattern Repository“:
+      Nutzer können bestehende Darstellungen übernehmen und anpassen. Grundlage für eine interne Pattern Library.'
+    Innovation / Transfer: 7 / 10
+- raw_id: beyond-dashboards-014
+  title: Reuters Graphics – 2025 in Graphics
+  url: https://www.reuters.com/graphics/what-2025-looked-like-graphics-2026-01-20/
+  section: Curated Inspiration Library
+  line: 32
+  kind: table-row
+  fields:
+    '#': '14'
+    Referenz, Urheber, Stand: Reuters Graphics – 2025 in Graphics — Reuters, 2026
+    Informations- und Interaktionsprinzip: Visuelle Erklärer, Maps, Charts und Datastories
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Redaktionelle Selektion gibt einer komplexen
+      Welt Informationshierarchie. Transfer: kuratiertes „Company Briefing“ statt Dashboard-Startseite.'
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-015
+  title: Bloomberg Visual Data
+  url: https://www.bloomberg.com/visual-data/
+  section: Curated Inspiration Library
+  line: 33
+  kind: table-row
+  fields:
+    '#': '15'
+    Referenz, Urheber, Stand: Bloomberg Visual Data — Bloomberg
+    Informations- und Interaktionsprinzip: Dynamische Ranglisten und interaktive Datenprodukte
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Billionaires Index und andere Produkte zeigen
+      den Unterschied zwischen persistentem Datenprodukt und statischer Story. Transfer: Rankings + Veränderungsursachen.'
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-016
+  title: Bloomberg Graphics
+  url: https://www.bloomberg.com/graphics/
+  section: Curated Inspiration Library
+  line: 34
+  kind: table-row
+  fields:
+    '#': '16'
+    Referenz, Urheber, Stand: Bloomberg Graphics — Bloomberg
+    Informations- und Interaktionsprinzip: Editorial Visual Storytelling
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Wechsel zwischen Karten, Erklärgrafiken und
+      Datenanalyse je nach Fragestellung.
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-017
+  title: Guardian Datablog
+  url: https://www.theguardian.com/news/datablog
+  section: Curated Inspiration Library
+  line: 35
+  kind: table-row
+  fields:
+    '#': '17'
+    Referenz, Urheber, Stand: Guardian Datablog — The Guardian
+    Informations- und Interaktionsprinzip: Datenjournalismus, interaktive Erklärstücke
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Früh etablierte Praxis, Daten mit journalistischem
+      Kontext zu verbinden statt isoliert zu präsentieren.
+    Innovation / Transfer: 7 / 7
+- raw_id: beyond-dashboards-018
+  title: Guardian Silk Experiment
+  url: https://www.theguardian.com/news/datablog/2012/may/10/silk-site-data-visualisation-interactive
+  section: Curated Inspiration Library
+  line: 36
+  kind: table-row
+  fields:
+    '#': '18'
+    Referenz, Urheber, Stand: Guardian Silk Experiment — The Guardian, 2012
+    Informations- und Interaktionsprinzip: Navigierbarer Datensatz mit Verknüpfungen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Frühe Referenz für explorierbare Informationsräume.
+      Limitation: solche offenen Systeme können Orientierung erschweren.'
+    Innovation / Transfer: 8 / 7
+- raw_id: beyond-dashboards-019
+  title: The Markup – Pixel Hunt
+  url: https://themarkup.org/series/pixel-hunt
+  section: Curated Inspiration Library
+  line: 37
+  kind: table-row
+  fields:
+    '#': '19'
+    Referenz, Urheber, Stand: The Markup – Pixel Hunt — The Markup
+    Informations- und Interaktionsprinzip: Investigative Serie über Tracking-Technologien
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Daten werden als Beweiskette und gesellschaftlicher
+      Mechanismus erklärt. Transfer: Compliance-/Risk-Investigation statt KPI-Ansicht.'
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-020
+  title: The Markup – Split Screen
+  url: https://themarkup.org/2021-annual-report
+  section: Curated Inspiration Library
+  line: 38
+  kind: table-row
+  fields:
+    '#': '20'
+    Referenz, Urheber, Stand: The Markup – Split Screen — The Markup
+    Informations- und Interaktionsprinzip: Vergleich algorithmischer Facebook-Feeds nach Nutzergruppen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Besonders interessant als Gegenüberstellung
+      paralleler Realitäten. Transfer: Segment-/Region-/Business-Unit-Vergleich.'
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-021
+  title: The Marshall Project – Visual Work
+  url: https://www.themarshallproject.org/2025/12/15/crime-justice-healing-visual-storytelling
+  section: Curated Inspiration Library
+  line: 39
+  kind: table-row
+  fields:
+    '#': '21'
+    Referenz, Urheber, Stand: The Marshall Project – Visual Work — 2025
+    Informations- und Interaktionsprinzip: Illustration, Daten, Fotografie und narrative Formen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Zeigt, dass komplexe Sachverhalte multimodal
+      und nicht ausschließlich chartbasiert erzählt werden können.
+    Innovation / Transfer: 7 / 7
+- raw_id: beyond-dashboards-022
+  title: No Place for a Child / Marshall Project
+  url: https://www.themarshallproject.org/
+  section: Curated Inspiration Library
+  line: 40
+  kind: table-row
+  fields:
+    '#': '22'
+    Referenz, Urheber, Stand: No Place for a Child / Marshall Project
+    Informations- und Interaktionsprinzip: Scrollytelling + Illustration + Daten
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Marshall Project nennt dieses Projekt ausdrücklich
+      als Verbindung von Grafik, Illustration, Text und Scrollytelling. Transfer: komplexe Case Reviews.'
+    Innovation / Transfer: 9 / 8
+- raw_id: beyond-dashboards-023
+  title: Fathom – Laniakea
+  url: https://laniakea.fathom.info/
+  section: Curated Inspiration Library
+  line: 41
+  kind: table-row
+  fields:
+    '#': '23'
+    Referenz, Urheber, Stand: Fathom – Laniakea — Fathom, 2019
+    Informations- und Interaktionsprinzip: „Topography of knowledge“ für große Archive
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Starker Archetyp für Wissenslandschaften.
+      Statt Suche allein entsteht räumliche Orientierung in Themenclustern.
+    Innovation / Transfer: 10 / 9
+- raw_id: beyond-dashboards-024
+  title: Connected China
+  url: https://china.fathom.info/
+  section: Curated Inspiration Library
+  line: 42
+  kind: table-row
+  fields:
+    '#': '24'
+    Referenz, Urheber, Stand: Connected China — Fathom / Reuters, 2013
+    Informations- und Interaktionsprinzip: Macht- und Beziehungsnetz chinesischer Institutionen und Personen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Beziehungen werden primäres Informationsobjekt.
+      Transfer: Org-, Stakeholder- und Abhängigkeitsgraphen.'
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-025
+  title: Mirador
+  url: https://www.fathom.info/mirador/
+  section: Curated Inspiration Library
+  line: 43
+  kind: table-row
+  fields:
+    '#': '25'
+    Referenz, Urheber, Stand: Mirador — Fathom / Broad Institute / Sabeti Lab
+    Informations- und Interaktionsprinzip: Explorative Analyse hochdimensionaler Daten
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Nutzer suchen Muster statt vorher definierte
+      KPIs zu lesen. Open Source; wurde unter anderem für klinische Prognoseanalyse genutzt.
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-026
+  title: 'State Street: 200 Years of Finance'
+  url: https://fathom.info/statestreet/
+  section: Curated Inspiration Library
+  line: 44
+  kind: table-row
+  fields:
+    '#': '26'
+    Referenz, Urheber, Stand: 'State Street: 200 Years of Finance — Fathom'
+    Informations- und Interaktionsprinzip: Zeitliche Verdichtung großer Finanzhistorien
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Historische Veränderungen werden zu navigierbarer
+      Erzählung. Transfer: langfristige Unternehmens- und Portfoliohistorien.'
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-027
+  title: Fathom – Hospital Information Flow
+  url: null
+  section: Curated Inspiration Library
+  line: 45
+  kind: table-row
+  fields:
+    '#': '27'
+    Referenz, Urheber, Stand: Fathom – Hospital Information Flow — Mayo Clinic, 2021
+    Informations- und Interaktionsprinzip: Informationsfluss statt Kennzahlen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Portfolio beschreibt das Projekt explizit
+      als System zur Sichtbarmachung von Informationsflüssen im Krankenhaus. Transfer auf Prozess- und Operations-Netzwerke.
+    Innovation / Transfer: 9 / 10
+- raw_id: beyond-dashboards-028
+  title: Fathom – Delphy, 2024
+  url: null
+  section: Curated Inspiration Library
+  line: 46
+  kind: table-row
+  fields:
+    '#': '28'
+    Referenz, Urheber, Stand: Fathom – Delphy, 2024
+    Informations- und Interaktionsprinzip: Genom-/Lineage-Exploration
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Hochkomplexe Beziehungen werden navigierbar
+      statt tabellarisch abgefragt.
+    Innovation / Transfer: 9 / 7
+- raw_id: beyond-dashboards-029
+  title: CLEVER°FRANKE – Rijkswaterstaat Data Landscape
+  url: https://www.cleverfranke.com/project/rws-interactive-data-installation/toolkit/visual-design
+  section: Curated Inspiration Library
+  line: 47
+  kind: table-row
+  fields:
+    '#': '29'
+    Referenz, Urheber, Stand: CLEVER°FRANKE – Rijkswaterstaat Data Landscape
+    Informations- und Interaktionsprinzip: Physische/interaktive Datenlandschaft
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Macht normalerweise unsichtbare Infrastruktur-
+      und Sensordaten räumlich erfahrbar. Transfer: Operations Rooms und physische Entscheidungsräume.'
+    Innovation / Transfer: 10 / 6
+- raw_id: beyond-dashboards-030
+  title: Setting the Pace
+  url: https://www.cleverfranke.com/project/wsj-custom-studios-setting-the-pace
+  section: Curated Inspiration Library
+  line: 48
+  kind: table-row
+  fields:
+    '#': '30'
+    Referenz, Urheber, Stand: Setting the Pace — C°F / WSJ / PIMCO
+    Informations- und Interaktionsprinzip: Historische Zinsen + Ereignisse + Storytelling
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Verknüpft Daten, Zeit und Ereigniskontext,
+      statt eine Zinskurve allein zu zeigen.
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-031
+  title: Cisco Data Design System
+  url: https://www.cleverfranke.com/project/data-design-system-cisco/toolkit/motion-design
+  section: Curated Inspiration Library
+  line: 49
+  kind: table-row
+  fields:
+    '#': '31'
+    Referenz, Urheber, Stand: Cisco Data Design System — C°F
+    Informations- und Interaktionsprinzip: Einheitliche Datenvisualisierung über Produktsuite
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Wichtig für Skalierung: Beyond-Dashboard
+      benötigt dennoch konsistente visuelle Semantik.'
+    Innovation / Transfer: 7 / 10
+- raw_id: beyond-dashboards-032
+  title: District Mobility
+  url: https://www.cleverfranke.com/project/district-mobility
+  section: Curated Inspiration Library
+  line: 50
+  kind: table-row
+  fields:
+    '#': '32'
+    Referenz, Urheber, Stand: District Mobility — C°F / DDOT
+    Informations- und Interaktionsprinzip: Karten + Mobilitätsindikatoren + öffentliche Exploration
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Karte wird zum Navigationsraum, nicht zum
+      Widget. Enterprise-Transfer: Supply Chain und Standortstrategie.'
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-033
+  title: Red Bull Data Experience
+  url: https://www.cleverfranke.com/project/redbull-visualization/toolkit/technology-exploration
+  section: Curated Inspiration Library
+  line: 51
+  kind: table-row
+  fields:
+    '#': '33'
+    Referenz, Urheber, Stand: Red Bull Data Experience — C°F
+    Informations- und Interaktionsprinzip: Generative Datenkunst / Physical Experience
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Zeigt emotionales Potenzial generativer Datenformen;
+      geringe Eignung für hochpräzise Analyse.
+    Innovation / Transfer: 10 / 4
+- raw_id: beyond-dashboards-034
+  title: Stamen – Atlas of Emotions
+  url: https://stamen.com/data-visualization/
+  section: Curated Inspiration Library
+  line: 52
+  kind: table-row
+  fields:
+    '#': '34'
+    Referenz, Urheber, Stand: Stamen – Atlas of Emotions — Stamen / Paul Ekman
+    Informations- und Interaktionsprinzip: Emotionen als „Kontinente“, Zustände und Aktionen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Konzeptuelles Mapping statt Chart. Transfer:
+      qualitative Zustandsräume, Customer/Employee Experience.'
+    Innovation / Transfer: 10 / 7
+- raw_id: beyond-dashboards-035
+  title: Stamen – Survival by Degrees
+  url: null
+  section: Curated Inspiration Library
+  line: 53
+  kind: table-row
+  fields:
+    '#': '35'
+    Referenz, Urheber, Stand: Stamen – Survival by Degrees
+    Informations- und Interaktionsprinzip: Geographische Szenarioexploration von Klimafolgen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Karten erlauben räumliche What-if-Exploration.
+      Transfer: Szenario- und Risikokarten.'
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-036
+  title: CrisisReady / ReadyMapper
+  url: https://stamen.com/work/readymapper/
+  section: Curated Inspiration Library
+  line: 54
+  kind: table-row
+  fields:
+    '#': '36'
+    Referenz, Urheber, Stand: CrisisReady / ReadyMapper — Stamen, 2023
+    Informations- und Interaktionsprinzip: Echtzeit-Situational-Awareness und Berichtsgenerierung
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Besonders relevante Enterprise-Referenz:
+      Echtzeitdaten werden analysiert und anschließend als kontextbezogener Bericht für Entscheider komponiert.'
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-037
+  title: Stamen – Natural Capital Project
+  url: null
+  section: Curated Inspiration Library
+  line: 55
+  kind: table-row
+  fields:
+    '#': '37'
+    Referenz, Urheber, Stand: Stamen – Natural Capital Project
+    Informations- und Interaktionsprinzip: Navigierbarer Datenhub
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Datenplattform als explorierbare Wissensbasis
+      statt Chart-Wand.
+    Innovation / Transfer: 7 / 9
+- raw_id: beyond-dashboards-038
+  title: Domestic Data Streamers – Design Does
+  url: https://www.domesticstreamers.com/work/design-does/
+  section: Curated Inspiration Library
+  line: 56
+  kind: table-row
+  fields:
+    '#': '38'
+    Referenz, Urheber, Stand: Domestic Data Streamers – Design Does
+    Informations- und Interaktionsprinzip: Besucherinputs erzeugen kollektive Echtzeitvisualisierung
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Interaktion erzeugt Daten und Visualisierung
+      gleichzeitig. Transfer: Workshops, Strategie- und Beteiligungssysteme.'
+    Innovation / Transfer: 9 / 6
+- raw_id: beyond-dashboards-039
+  title: Skeptic Reader
+  url: https://www.domesticstreamers.com/work/skeptic-reader/
+  section: Curated Inspiration Library
+  line: 57
+  kind: table-row
+  fields:
+    '#': '39'
+    Referenz, Urheber, Stand: Skeptic Reader — DDS
+    Informations- und Interaktionsprinzip: GPT-4o + journalistische Prinzipien zur Analyse komplexer Inhalte
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Frühe Referenz für AI-native Information
+      Experience. Limitation: Modellabhängigkeit und Verifikationsbedarf.'
+    Innovation / Transfer: 10 / 8
+- raw_id: beyond-dashboards-040
+  title: Domestic Data Streamers – Synthetic Memories
+  url: null
+  section: Curated Inspiration Library
+  line: 58
+  kind: table-row
+  fields:
+    '#': '40'
+    Referenz, Urheber, Stand: Domestic Data Streamers – Synthetic Memories
+    Informations- und Interaktionsprinzip: Generative KI + qualitative menschliche Erinnerung
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Interessant für Verbindung strukturierter
+      und unstrukturierter Information; weniger geeignet für deterministische BI.
+    Innovation / Transfer: 10 / 5
+- raw_id: beyond-dashboards-041
+  title: 'Accurat – Data Landscape: Venice'
+  url: https://studio.accurat.it/work/data-landscapes-venice
+  section: Curated Inspiration Library
+  line: 59
+  kind: table-row
+  fields:
+    '#': '41'
+    Referenz, Urheber, Stand: 'Accurat – Data Landscape: Venice — Accurat, 2024'
+    Informations- und Interaktionsprinzip: Bildanalyse + Daten + generative Landschaft
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Verbindet physische Umgebung und Daten zu
+      semantischer Landschaft. Transfer: Brand-, Markt- oder Customer-Landscapes.'
+    Innovation / Transfer: 10 / 6
+- raw_id: beyond-dashboards-042
+  title: Accurat – Painters in the Making 3.0, Lenovo 2024
+  url: null
+  section: Curated Inspiration Library
+  line: 60
+  kind: table-row
+  fields:
+    '#': '42'
+    Referenz, Urheber, Stand: Accurat – Painters in the Making 3.0, Lenovo 2024
+    Informations- und Interaktionsprinzip: Acht Jahrhunderte Kunst als AI-gestützte Datenexploration
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Große kulturelle Datenmenge wird thematisch
+      navigierbar. Transfer: Produkt-/Patent-/Research-Landscapes.'
+    Innovation / Transfer: 9 / 7
+- raw_id: beyond-dashboards-043
+  title: Vizzuality
+  url: https://www.vizzuality.com/work
+  section: Curated Inspiration Library
+  line: 61
+  kind: table-row
+  fields:
+    '#': '43'
+    Referenz, Urheber, Stand: Vizzuality
+    Informations- und Interaktionsprinzip: Geospatiale, wissenschaftsnahe Entscheidungsplattformen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Verbindet Environmental Data Science mit
+      Human-Centered Design und Webplattformen. Starker Transfer auf komplexe geographische Enterprise-Daten.
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-044
+  title: Tactical Tech – GAFAM Empire
+  url: https://tacticaltech.org/projects/
+  section: Curated Inspiration Library
+  line: 62
+  kind: table-row
+  fields:
+    '#': '44'
+    Referenz, Urheber, Stand: Tactical Tech – GAFAM Empire
+    Informations- und Interaktionsprinzip: Übernahmen großer Tech-Konzerne als Beziehungs-/Expansionssystem
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Zeigt Unternehmensentwicklung als Netzwerk
+      statt Umsatzchart. Transfer: Wettbewerber-, M&A- und Ecosystem Intelligence.'
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-045
+  title: DensityDesign Lab
+  url: https://densitydesign.org/research/
+  section: Curated Inspiration Library
+  line: 63
+  kind: table-row
+  fields:
+    '#': '45'
+    Referenz, Urheber, Stand: DensityDesign Lab — Politecnico di Milano
+    Informations- und Interaktionsprinzip: Kritische Visualisierung komplexer sozialer und kultureller Phänomene
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Wichtig, weil Daten als konstruiertes Artefakt
+      verstanden und kritisch hinterfragt werden. Gegenmittel gegen falsche Objektivität automatisierter Systeme.
+    Innovation / Transfer: 9 / 8
+- raw_id: beyond-dashboards-046
+  title: Khoury Visualization Lab
+  url: https://vis.khoury.northeastern.edu/
+  section: Curated Inspiration Library
+  line: 64
+  kind: table-row
+  fields:
+    '#': '46'
+    Referenz, Urheber, Stand: Khoury Visualization Lab — Northeastern
+    Informations- und Interaktionsprinzip: Wahrnehmung, Visual Encodings, Interaction, Animation, Storytelling
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Forschungsgrundlage für nutzerzentrierte
+      Informationsinterfaces.
+    Innovation / Transfer: 8 / 10
+- raw_id: beyond-dashboards-047
+  title: MIT Visualization Group
+  url: https://vis.mit.edu/
+  section: Curated Inspiration Library
+  line: 65
+  kind: table-row
+  fields:
+    '#': '47'
+    Referenz, Urheber, Stand: MIT Visualization Group
+    Informations- und Interaktionsprinzip: Intelligence Augmentation, Visual Authoring, multimodale UI
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Eines der wichtigsten Forschungslabore für
+      AI-native Visual Interfaces 2024–2026.
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-048
+  title: MIT Latent Lab
+  url: https://www.media.mit.edu/projects/latent-lab/overview/
+  section: Curated Inspiration Library
+  line: 66
+  kind: table-row
+  fields:
+    '#': '48'
+    Referenz, Urheber, Stand: MIT Latent Lab
+    Informations- und Interaktionsprinzip: Dokumente/Bilder/Medien als semantische Landschaft mit Zoom, Filter und
+      Query
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Direkter Prototyp für Knowledge Spaces statt
+      File- oder Dashboard-Hierarchien.
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-049
+  title: VizML
+  url: https://www.media.mit.edu/projects/vizml/overview/
+  section: Curated Inspiration Library
+  line: 67
+  kind: table-row
+  fields:
+    '#': '49'
+    Referenz, Urheber, Stand: VizML — MIT Media Lab
+    Informations- und Interaktionsprinzip: Machine Learning empfiehlt Visualisierungsdesigns
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Frühes Fundament für algorithmische Visual-Selection.
+      Limitation: gelernte Konventionen können bestehende Chartnormen reproduzieren.'
+    Innovation / Transfer: 8 / 9
+- raw_id: beyond-dashboards-050
+  title: Pluto
+  url: https://vis.mit.edu/pubs/pluto/
+  section: Curated Inspiration Library
+  line: 68
+  kind: table-row
+  fields:
+    '#': '50'
+    Referenz, Urheber, Stand: Pluto — MIT/Tableau, 2025
+    Informations- und Interaktionsprinzip: 'Mixed Initiative: Text ↔ Chart ↔ Selektion'
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Besonders relevant: Nutzer kann Chartbereiche
+      markieren und Text erzeugen; Text kann wiederum Visualisierung verändern.'
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-051
+  title: Umwelt
+  url: https://vis.mit.edu/pubs/umwelt/
+  section: Curated Inspiration Library
+  line: 69
+  kind: table-row
+  fields:
+    '#': '51'
+    Referenz, Urheber, Stand: Umwelt — MIT, CHI 2024
+    Informations- und Interaktionsprinzip: Visualisierung, Text und Sonifikation aus gemeinsamem Datenmodell
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Durchbricht „screen-first“-Denken und verbessert
+      Accessibility. Studie mit fünf blinden/sehbehinderten Experten zeigte komplementäre Vorteile verschiedener
+      Modalitäten.
+    Innovation / Transfer: 10 / 9
+- raw_id: beyond-dashboards-052
+  title: Deimos
+  url: https://vis.mit.edu/pubs/deimos/
+  section: Curated Inspiration Library
+  line: 70
+  kind: table-row
+  fields:
+    '#': '52'
+    Referenz, Urheber, Stand: Deimos — MIT/Monash/Inria, CHI 2023
+    Informations- und Interaktionsprinzip: Embodied immersive Visualisierung mit dynamischen Morphs
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Relevant für räumliche Information Rooms;
+      Expertenstudie mit sechs Forschern, noch deutlich experimentell.
+    Innovation / Transfer: 10 / 4
+- raw_id: beyond-dashboards-053
+  title: Bauhaus Weimar Data Physicalization
+  url: https://www.uni-weimar.de/en/media/chairs/computer-science-department/human-computer-interaction/research/research-projects/physicalization/
+  section: Curated Inspiration Library
+  line: 71
+  kind: table-row
+  fields:
+    '#': '53'
+    Referenz, Urheber, Stand: Bauhaus Weimar Data Physicalization
+    Informations- und Interaktionsprinzip: Physische Datenrepräsentationen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Untersucht affektive, sensorische und bedeutungsbezogene
+      Eigenschaften physischer Daten. Transfer: Operations Rooms, Workshops, Ambient Displays.'
+    Innovation / Transfer: 9 / 5
+- raw_id: beyond-dashboards-054
+  title: StoryFacets
+  url: https://vis.khoury.northeastern.edu/pubs/Park2022StoryfacetsDesignStudy/
+  section: Curated Inspiration Library
+  line: 72
+  kind: table-row
+  fields:
+    '#': '54'
+    Referenz, Urheber, Stand: StoryFacets — Northeastern, 2022
+    Informations- und Interaktionsprinzip: Speicherung und Rekonstruktion von Sensemaking-Verläufen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Analyse wird nicht nur Ergebnis, sondern
+      nachvollziehbare Geschichte. Transfer: Collaborative Analytics und Auditability.'
+    Innovation / Transfer: 9 / 10
+- raw_id: beyond-dashboards-055
+  title: Narrative Visualization
+  url: https://vis.stanford.edu/papers/narrative.html
+  section: Curated Inspiration Library
+  line: 73
+  kind: table-row
+  fields:
+    '#': '55'
+    Referenz, Urheber, Stand: Narrative Visualization — Segel & Heer, 2010
+    Informations- und Interaktionsprinzip: Author-driven Narrative ↔ Reader-driven Exploration
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Grundlagenarbeit für das richtige Verhältnis
+      zwischen Führung und Freiheit in datengetriebenen Interfaces.
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-056
+  title: Low-level components of analytic activity
+  url: https://doi.org/10.1109/INFVIS.2005.1532136
+  section: Curated Inspiration Library
+  line: 74
+  kind: table-row
+  fields:
+    '#': '56'
+    Referenz, Urheber, Stand: Low-level components of analytic activity — Amar et al., 2005
+    Informations- und Interaktionsprinzip: Analytische Aufgaben statt Charttypen
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Definiert Analyse über Nutzeraufgaben; wichtiger
+      methodischer Gegenentwurf zu widget-/chartzentriertem Produktdesign.
+    Innovation / Transfer: 9 / 10
+- raw_id: beyond-dashboards-057
+  title: WaitGPT
+  url: https://arxiv.org/abs/2408.01703
+  section: Curated Inspiration Library
+  line: 75
+  kind: table-row
+  fields:
+    '#': '57'
+    Referenz, Urheber, Stand: WaitGPT — Xie et al., 2024
+    Informations- und Interaktionsprinzip: Conversational Analytics + Live-Visualisierung des generierten Codes
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Nutzer können Analyseschritte verstehen,
+      prüfen und verändern; kleine Studie mit N=12 berichtet bessere Fehlererkennung und höheres Vertrauen.
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-058
+  title: InsightLens
+  url: https://arxiv.org/abs/2404.01644
+  section: Curated Inspiration Library
+  line: 76
+  kind: table-row
+  fields:
+    '#': '58'
+    Referenz, Urheber, Stand: InsightLens — Weng et al., 2024
+    Informations- und Interaktionsprinzip: Automatische Insight-Erfassung, Organisation und Navigation
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: 'Löst ein zentrales Chat-Problem: Erkenntnisse
+      verschwinden nicht im Conversation Stream. Studie mit zwölf Analysten berichtet geringeren manuellen/kognitiven
+      Aufwand.'
+    Innovation / Transfer: 10 / 10
+- raw_id: beyond-dashboards-059
+  title: LLM-Assisted Visual Analytics
+  url: https://arxiv.org/abs/2409.02691
+  section: Curated Inspiration Library
+  line: 77
+  kind: table-row
+  fields:
+    '#': '59'
+    Referenz, Urheber, Stand: LLM-Assisted Visual Analytics — Hutchinson et al., 2024
+    Informations- und Interaktionsprinzip: Forschungsübersicht zu LLM + VA
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Zeigt Chancen von NL-Interaktion, Guidance
+      und multimodaler Analyse, benennt aber explizit Herausforderungen.
+    Innovation / Transfer: 9 / 10
+- raw_id: beyond-dashboards-060
+  title: DataNarrative
+  url: https://aclanthology.org/2024.emnlp-main.1073/
+  section: Curated Inspiration Library
+  line: 78
+  kind: table-row
+  fields:
+    '#': '60'
+    Referenz, Urheber, Stand: DataNarrative — EMNLP 2024
+    Informations- und Interaktionsprinzip: Multi-Agent-System erzeugt Datenstory mit Text und Visuals
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Agent für Analyse/Narration plus separater
+      Verifikationsagent. Benchmark mit 1.449 Stories; Ergebnisse zeigen Fortschritte, aber weiterhin spezifische
+      Schwierigkeiten bei automatischer Datenstory-Erzeugung.
+    Innovation / Transfer: 10 / 9
+- raw_id: beyond-dashboards-061
+  title: VisuaLingua
+  url: https://cui.acm.org/2025/proceedings/
+  section: Curated Inspiration Library
+  line: 79
+  kind: table-row
+  fields:
+    '#': '61'
+    Referenz, Urheber, Stand: VisuaLingua — ACM CUI 2025
+    Informations- und Interaktionsprinzip: Conversational Chart Creation
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Studie berichtet insbesondere für Anfänger
+      höhere Geschwindigkeit und weniger Fehler gegenüber Google Sheets; Zufriedenheit war nicht eindeutig besser.
+    Innovation / Transfer: 8 / 8
+- raw_id: beyond-dashboards-062
+  title: GenUI(ne) CRS
+  url: https://recsys.acm.org/recsys24/accepted-contributions/
+  section: Curated Inspiration Library
+  line: 80
+  kind: table-row
+  fields:
+    '#': '62'
+    Referenz, Urheber, Stand: GenUI(ne) CRS — RecSys 2024
+    Informations- und Interaktionsprinzip: LLM erzeugt domänenspezifische Buttons, Cards und UI-Elemente
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Demonstriert Machbarkeit adaptiver grafischer
+      Elemente innerhalb eines Conversational Systems; empirische UX-Validierung bleibt offene Aufgabe.
+    Innovation / Transfer: 9 / 8
+- raw_id: beyond-dashboards-063
+  title: A Design Vocabulary for Data Physicalization
+  url: https://doi.org/10.1145/3617366
+  section: Curated Inspiration Library
+  line: 81
+  kind: table-row
+  fields:
+    '#': '63'
+    Referenz, Urheber, Stand: A Design Vocabulary for Data Physicalization — Eva Hornecker et al.
+    Informations- und Interaktionsprinzip: Vokabular für physische Datenrepräsentation
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Hilft, Physicalization systematisch statt
+      nur künstlerisch zu denken.
+    Innovation / Transfer: 8 / 5
+- raw_id: beyond-dashboards-064
+  title: UW Interactive Data Lab
+  url: https://idl.uw.edu/about
+  section: Curated Inspiration Library
+  line: 82
+  kind: table-row
+  fields:
+    '#': '64'
+    Referenz, Urheber, Stand: UW Interactive Data Lab
+    Informations- und Interaktionsprinzip: Interaktive Datenanalyse, D3/Protovis/Data Wrangler-Tradition
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Historisch wichtig für deklarative und direkte
+      Dateninteraktion; verbindet Forschung mit Werkzeugbau.
+    Innovation / Transfer: 9 / 10
+- raw_id: beyond-dashboards-065
+  title: Stanford Visualization Group
+  url: https://vis.stanford.edu/
+  section: Curated Inspiration Library
+  line: 83
+  kind: table-row
+  fields:
+    '#': '65'
+    Referenz, Urheber, Stand: Stanford Visualization Group
+    Informations- und Interaktionsprinzip: Visual Analytics, Wahrnehmung, Interaktion
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Forschungstradition hinter zahlreichen grundlegenden
+      Visualisierungssystemen und Narrative-Vis-Arbeiten.
+    Innovation / Transfer: 9 / 9
+- raw_id: beyond-dashboards-066
+  title: Co-Laboratory for Data Impact
+  url: https://camd.northeastern.edu/research/co-laboratory-for-data-impact/
+  section: Curated Inspiration Library
+  line: 84
+  kind: table-row
+  fields:
+    '#': '66'
+    Referenz, Urheber, Stand: Co-Laboratory for Data Impact — Northeastern
+    Informations- und Interaktionsprinzip: Narrative Data Strategies, Civic Visualization
+    Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Expliziter Fokus auf Visual Storytelling,
+      Evidenz und gesellschaftliche Wirkung.
+    Innovation / Transfer: 8 / 8

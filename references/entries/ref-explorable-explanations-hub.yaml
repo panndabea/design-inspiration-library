@@ -1,0 +1,47 @@
+id: ref-explorable-explanations-hub
+title: Explorable Explanations (directory)
+url: https://explorabl.es/
+creator: Nicky Case (initiator)
+source_reports:
+- interactive-learning
+categories:
+- directory
+- meta-design
+design_language: playful-systemic
+availability: live
+visual_characteristics: []
+interaction_patterns: []
+description: Directory of explorables covering mathematics, physics, biology, chemistry, economics, journalism,
+  philosophy, psychology and programming; also contains design patterns and tutorials on when interactivity is useful.
+why_it_works: The report highlights Case's distinction – text for abstract ideas, graphics for relationships, animation
+  for temporal processes, interactivity for systems and models.
+best_suited_for:
+- finding further references
+- choosing the right medium per idea
+limitations: []
+library_notes:
+- This is a discovery source, not a single design reference.
+patterns:
+- pat-single-mechanism-explorable
+keywords:
+- directory
+- explorables
+- discovery
+- design patterns
+- when to use interactivity
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-148
+  section: Inspirationsquellen und Grenzen der Recherche
+  excerpt: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

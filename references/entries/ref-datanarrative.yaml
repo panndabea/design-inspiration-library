@@ -1,0 +1,52 @@
+id: ref-datanarrative
+title: DataNarrative (EMNLP 2024)
+url: https://aclanthology.org/2024.emnlp-main.1073/
+creator: EMNLP 2024 authors
+source_reports:
+- beyond-dashboards
+categories:
+- ai-interface
+- generative-storytelling
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- generated data stories with text and visuals
+interaction_patterns:
+- multi-agent generation with a separate verification agent
+description: A multi-agent system that generates data stories with text and visuals; an analysis/narration agent
+  plus a separate verification agent; benchmark of 1,449 stories.
+why_it_works: Positive pattern for "Separate fact from inference" via an explicit verification step.
+best_suited_for:
+- automated reporting
+- AI-generated briefings
+limitations:
+- Report caveat – results show progress but specific remaining difficulties in automatic data-story generation;
+  narrative bias risk.
+library_notes: []
+patterns:
+- pat-visual-provenance
+- pat-narrative-briefing
+keywords:
+- llm
+- data story
+- generation
+- verification
+- agents
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-060
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: DataNarrative — EMNLP 2024 | Informations- und Interaktionsprinzip: Multi-Agent-System
+    erzeugt Datenstory mit Text und Visuals | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Agent für Analyse/Narration plus separater Verifikationsagent. Benchmark mit 1.449 Stories; Ergebnisse zeigen
+    Fortschritte, aber weiterhin spezifische Schwierigkeiten bei automatischer Datenstory-Erzeugung. | Innovation
+    / Transfer: 10 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

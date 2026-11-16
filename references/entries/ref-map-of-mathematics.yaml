@@ -1,0 +1,57 @@
+id: ref-map-of-mathematics
+title: The Map of Mathematics (Quanta Magazine)
+url: https://mathmap.quantamagazine.org/
+creator: Kim Albrecht & Jonas Parnow for Quanta Magazine
+source_reports:
+- interactive-learning
+categories:
+- knowledge-map
+- math-education
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- mathematics as a navigable landscape
+- strong visual metaphor
+interaction_patterns:
+- spatial navigation
+- zoom into regions of knowledge
+description: Mathematics presented as a spatially navigable knowledge landscape with outstanding information architecture
+  and visual metaphor.
+why_it_works: Spatial position encodes the relationship between fields, so orientation comes before detail.
+best_suited_for:
+- knowledge bases
+- curricula
+- topic overviews
+- research landscapes
+limitations: []
+library_notes:
+- Inference – the spatial metaphor only works when proximity carries real meaning.
+patterns:
+- pat-semantic-landscape
+keywords:
+- map
+- knowledge landscape
+- mathematics
+- navigation
+- metaphor
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-007
+  section: Top-Auswahl
+  excerpt: 'Projekt: The Map of Mathematics | Warum es herausragt: Mathematik als räumlich navigierbare Wissenslandschaft;
+    herausragende Informationsarchitektur und visuelle Metapher. | Ästh.: 10 | Int.: 8 | Did.: 9 | Orig.: 10 | MLU:
+    8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-037
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Map of Mathematics | Thema & Besonderheit: Mathematiklandschaft | Design / Interaktion: Wissen
+    als visuell navigierbares Netzwerk. | Ästh.: 10 | Int.: 8 | MLU: 8 | Typ: Einzelprojekt'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,55 @@
+id: ref-distill
+title: Distill
+url: https://distill.pub/
+creator: Distill team (Chris Olah, Shan Carter and others)
+source_reports:
+- interactive-learning
+categories:
+- research-publication
+- visual-essay
+- ml-education
+design_language: research-native
+availability: archived
+visual_characteristics:
+- scientific article layout
+- reactive diagrams as part of the argument
+- footnotes and citations native to the web
+interaction_patterns:
+- reactive diagrams
+- explorable model figures
+- hover-linked text and figures
+description: Scientific publishing "native to the web" in which reactive diagrams, models and visualisations are
+  an integral part of the argument (e.g. Activation Atlas, t-SNE, Momentum, GNN intro).
+why_it_works: Interaction is treated as part of the scientific method rather than an illustration, which raises
+  both rigour and understanding.
+best_suited_for:
+- research communication
+- technical reports
+- deep explainers for expert audiences
+limitations:
+- Report caveat – Distill is institutionally paused but remains available as an archive.
+library_notes: []
+patterns:
+- pat-inline-reactive-figure
+- pat-single-mechanism-explorable
+keywords:
+- research
+- publication
+- interpretability
+- neural networks
+- archive
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-003
+  section: Top-Auswahl
+  excerpt: 'Projekt: Distill | Warum es herausragt: Wissenschaftliches Publizieren „native to the web“: reaktive
+    Diagramme, Modelle und Visualisierungen als integraler Teil der Argumentation. | Ästh.: 10 | Int.: 10 | Did.:
+    10 | Orig.: 10 | MLU: 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

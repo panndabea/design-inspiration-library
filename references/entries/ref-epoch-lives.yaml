@@ -1,0 +1,48 @@
+id: ref-epoch-lives
+title: Epoch Lives
+url: https://pastlives.site/
+creator: null
+source_reports:
+- interactive-learning
+categories:
+- timeline-history
+- scrollytelling
+- visual-essay
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- maps
+- data and primary sources inside scroll essays
+interaction_patterns:
+- immersive historical scrollytelling
+description: Immersive historical scrollytelling essays with maps, data and primary sources.
+why_it_works: Primary sources give historical narrative evidence and authenticity.
+best_suited_for:
+- history sites
+- cultural heritage
+- evidence-based storytelling
+limitations: []
+library_notes: []
+patterns:
+- pat-scroll-driven-construction
+- pat-geo-temporal-atlas
+- pat-visual-provenance
+keywords:
+- history
+- primary sources
+- maps
+- scrollytelling
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-135
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: Epoch Lives | Thema: Geschichte | Charakter: Immersive historische Scrollytelling-Essays mit
+    Karten, Daten und Primärquellen. | Ästh.: 9 | Int.: 8 | MLU: 7 | Typ: Visual-Essay-Sammlung'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

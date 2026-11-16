@@ -1,0 +1,43 @@
+id: ref-tensorflow-playground
+title: TensorFlow Playground
+url: https://playground.tensorflow.org/
+creator: Google (listed by PAIR)
+source_reports:
+- interactive-learning
+categories:
+- playground
+- ml-education
+design_language: research-native
+availability: live
+visual_characteristics:
+- network architecture and decision boundary shown together
+interaction_patterns:
+- change architecture and training parameters live
+description: Change network architecture and training live; listed by PAIR as a visual ML toy.
+why_it_works: Immediate feedback between configuration and outcome.
+best_suited_for:
+- AI education
+- configuration tools
+limitations: []
+library_notes: []
+patterns:
+- pat-sandbox-playground
+keywords:
+- neural network
+- playground
+- training
+- configuration
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-104
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: TensorFlow Playground | Thema: Neural Networks | Charakter: Netzwerkarchitektur und Training
+    live verändern; von PAIR als visuelles ML-Spielzeug geführt. | Ästh.: 9 | Int.: 10 | MLU: 9 | Typ: Playground'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,53 @@
+id: ref-owid-grapher
+title: Our World in Data Grapher
+url: https://ourworldindata.org/grapher
+creator: Our World in Data
+source_reports:
+- beyond-dashboards
+categories:
+- information-design
+- data-exploration
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- clean charts with sources and notes always visible
+interaction_patterns:
+- switch chart/map/table
+- timeline scrubber
+- download
+- full-screen exploration
+description: Chart, map and table as interchangeable views with exploration, download and sources (redesigned 2023).
+why_it_works: Separation of narrative embedding and optional exploration; positive pattern for "Context before precision"
+  and "Progressively disclose complexity".
+best_suited_for:
+- global-trend explainers
+- public data portals
+- embedded charts in articles
+limitations: []
+library_notes: []
+patterns:
+- pat-narrate-then-explore
+- pat-visual-provenance
+keywords:
+- global data
+- trends
+- chart map table
+- sources
+- technology trends
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-009
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Our World in Data Grapher — OWID, redesign 2023 | Informations- und Interaktionsprinzip:
+    Chart, Map und Tabelle als wechselbare Ansichten; Exploration, Download, Quellen | Beyond-Dashboard-Wert, Evidenz/Limitation
+    und Enterprise-Transfer: Besonders stark ist die Trennung aus narrativer Einbettung und optionaler Exploration.
+    Das 2023-Redesign stärkte View-Wechsel, Quellen und Fullscreen Exploration. | Innovation / Transfer: 8 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports
+  final_url: https://ourworldindata.org/search

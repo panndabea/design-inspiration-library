@@ -1,0 +1,55 @@
+id: ref-mlu-explain
+title: MLU-Explain
+url: https://mlu-explain.github.io/
+creator: Amazon Machine Learning University
+source_reports:
+- interactive-learning
+categories:
+- visual-essay
+- ml-education
+- scrollytelling
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- generous white space
+- restricted colour palette
+- visualisations inside the text flow
+interaction_patterns:
+- manipulable models instead of static textbook figures
+- scroll-driven steps
+description: Machine-learning concepts (e.g. linear and logistic regression) taught as visual essays with manipulable
+  models instead of a classic textbook.
+why_it_works: The report uses MLU-Explain as its benchmark aesthetic ("MLU factor"); concepts become intuitive because
+  the reader changes the model and sees the consequence immediately.
+best_suited_for:
+- educational sites
+- concept explainers
+- documentation of algorithms
+limitations: []
+library_notes:
+- Inference – the calm editorial style depends on strict content editing; it degrades quickly if many concepts are
+  packed into one page.
+patterns:
+- pat-inline-reactive-figure
+- pat-scroll-driven-construction
+- pat-single-mechanism-explorable
+keywords:
+- machine learning
+- regression
+- editorial
+- minimal
+- benchmark
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-002
+  section: Top-Auswahl
+  excerpt: 'Projekt: MLU‑Explain | Warum es herausragt: Die Referenz: Machine Learning als visuelles Essay mit manipulierbaren
+    Modellen statt klassischem Lehrbuch. | Ästh.: 10 | Int.: 9 | Did.: 10 | Orig.: 9 | MLU: 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

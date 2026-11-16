@@ -1,0 +1,50 @@
+id: ref-stamen-crisisready-readymapper
+title: CrisisReady / ReadyMapper
+url: https://stamen.com/work/readymapper/
+creator: Stamen
+source_reports:
+- beyond-dashboards
+categories:
+- situation-awareness
+- enterprise-analytics
+- decision-support
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- maps plus composed situation reports
+interaction_patterns:
+- real-time data analysed and composed into a contextual report
+description: Real-time situational awareness and report generation (2023).
+why_it_works: Particularly relevant enterprise reference – real-time data is analysed and then composed into a context-specific
+  report for decision makers; positive pattern for "Decision before dashboard".
+best_suited_for:
+- operations
+- crisis response
+- executive situation briefs
+limitations: []
+library_notes: []
+patterns:
+- pat-situation-to-decision-brief
+- pat-narrative-briefing
+keywords:
+- situation awareness
+- crisis
+- report generation
+- decision
+- real-time
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-036
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: CrisisReady / ReadyMapper — Stamen, 2023 | Informations- und Interaktionsprinzip:
+    Echtzeit-Situational-Awareness und Berichtsgenerierung | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Besonders relevante Enterprise-Referenz: Echtzeitdaten werden analysiert und anschließend als kontextbezogener
+    Bericht für Entscheider komponiert. | Innovation / Transfer: 10 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

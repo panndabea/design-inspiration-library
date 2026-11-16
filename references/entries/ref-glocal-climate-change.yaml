@@ -1,0 +1,48 @@
+id: ref-glocal-climate-change
+title: Glocal Climate Change
+url: https://www.sheldon.studio/works/glocal-climate-change/
+creator: Sheldon studio
+source_reports:
+- interactive-learning
+categories:
+- scrollytelling
+- data-journalism
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- typographic dramaturgy
+- local climate data
+interaction_patterns:
+- choose your municipality
+- personalised scroll story
+description: Climate change in more than 100,000 European municipalities as personalised scrollytelling.
+why_it_works: A global topic becomes personal by anchoring it in the reader's own place.
+best_suited_for:
+- global-trend explainers
+- public-interest data stories
+- personalised reports
+limitations: []
+library_notes: []
+patterns:
+- pat-personalised-data-experience
+- pat-scroll-driven-construction
+keywords:
+- climate
+- personalised
+- local
+- scrollytelling
+- global trends
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-126
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: Glocal Climate Change | Thema: Klima | Charakter: Klimawandel in über 100.000 europäischen
+    Gemeinden als personalisiertes Scrollytelling. | Ästh.: 10 | Int.: 8 | MLU: 8 | Typ: Scrollytelling'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

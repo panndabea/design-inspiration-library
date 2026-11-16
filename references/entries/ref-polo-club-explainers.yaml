@@ -1,0 +1,60 @@
+id: ref-polo-club-explainers
+title: Polo Club explainers (Transformer, Diffusion, CNN Explainer)
+url: https://poloclub.github.io/transformer-explainer/
+creator: Polo Club of Data Science, Georgia Tech (Duen Horng "Polo" Chau)
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- ml-education
+- ai-interface
+design_language: research-native
+availability: live
+visual_characteristics:
+- architecture diagram as the main canvas
+- live intermediate values
+interaction_patterns:
+- type your own input
+- inspect tokens and attention
+- expand building blocks
+description: Interactive explainers in which tokens, attention and transformer components can be examined directly;
+  sibling tools cover diffusion models and CNNs.
+why_it_works: Explicitly designed as learning explainers – the real model architecture is the interface, so the
+  learner explores the actual mechanism.
+best_suited_for:
+- AI education
+- explaining system architectures
+- developer tooling
+limitations: []
+library_notes: []
+patterns:
+- pat-system-anatomy-explorer
+- pat-sandbox-playground
+keywords:
+- transformer
+- attention
+- llm
+- diffusion
+- cnn
+- ai history
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-009
+  section: Top-Auswahl
+  excerpt: 'Projekt: Transformer Explainer | Warum es herausragt: Tokens, Attention und Transformer-Bausteine lassen
+    sich direkt untersuchen; explizit als interaktiver Lern-Explainer konzipiert. | Ästh.: 9 | Int.: 10 | Did.:
+    10 | Orig.: 9 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-094
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: Transformer Explainer | Thema: LLMs | Charakter: Transformer direkt untersuchen. | Ästh.: 9
+    | Int.: 10 | MLU: 10 | Typ: Explainer'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

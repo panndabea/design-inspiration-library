@@ -1,0 +1,53 @@
+id: ref-mit-latent-lab
+title: MIT Latent Lab
+url: https://www.media.mit.edu/projects/latent-lab/overview/
+creator: MIT Media Lab
+source_reports:
+- beyond-dashboards
+categories:
+- knowledge-map
+- ai-interface
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- documents
+- images and media as a semantic landscape
+interaction_patterns:
+- zoom
+- filter and query in a semantic space
+description: Documents, images and media as a semantic landscape with zoom, filter and query.
+why_it_works: Direct prototype for knowledge spaces instead of file or dashboard hierarchies; positive pattern for
+  "Use space when space means something".
+best_suited_for:
+- knowledge management
+- research tools
+- AI-assisted search
+limitations:
+- Report caveat – semantic mis-clustering is the main risk of strategy/knowledge landscapes.
+library_notes: []
+patterns:
+- pat-semantic-landscape
+- pat-persistent-insight-workspace
+keywords:
+- semantic space
+- embeddings
+- knowledge
+- documents
+- ai
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-048
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: MIT Latent Lab | Informations- und Interaktionsprinzip: Dokumente/Bilder/Medien
+    als semantische Landschaft mit Zoom, Filter und Query | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Direkter Prototyp für Knowledge Spaces statt File- oder Dashboard-Hierarchien. | Innovation / Transfer: 10 /
+    10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

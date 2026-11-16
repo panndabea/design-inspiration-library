@@ -1,0 +1,57 @@
+id: ref-setosa-explained-visually
+title: Explained Visually (Setosa)
+url: https://setosa.io/ev/
+creator: Victor Powell & Lewis Lehe
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- math-education
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- minimalist
+- extremely clear visualisations
+- one concept per page
+interaction_patterns:
+- direct manipulation of the figure
+- linked views
+description: Minimalist visual explanations of PCA, eigenvectors, Markov chains, regression, trigonometry, image
+  kernels and more; philosophy "interactive = intuitive" and "substance > information".
+why_it_works: Deliberate restriction to one concept and one central interaction.
+best_suited_for:
+- concept explainers
+- documentation
+- micro-learning
+limitations: []
+library_notes: []
+patterns:
+- pat-single-mechanism-explorable
+- pat-inline-reactive-figure
+keywords:
+- minimal
+- pca
+- markov
+- eigenvectors
+- image kernels
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-011
+  section: Top-Auswahl
+  excerpt: 'Projekt: Explained Visually | Warum es herausragt: Minimalistische, äußerst klare Visualisierungen zu
+    PCA, Eigenvektoren, Markov-Ketten, Regression, Trigonometrie usw. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.:
+    9 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-038
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Explained Visually | Thema & Besonderheit: Mathematische Grundideen | Design / Interaktion:
+    Extrem klare, reduzierte Interaktionen. | Ästh.: 9 | Int.: 10 | MLU: 10 | Typ: Sammlung'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

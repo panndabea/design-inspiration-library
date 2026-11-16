@@ -1,0 +1,51 @@
+id: ref-reuters-2025-in-graphics
+title: Reuters Graphics – 2025 in Graphics
+url: https://www.reuters.com/graphics/what-2025-looked-like-graphics-2026-01-20/
+creator: Reuters
+source_reports:
+- beyond-dashboards
+categories:
+- data-journalism
+- editorial-briefing
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- curated sequence of visual explainers
+- maps
+- charts and data stories
+interaction_patterns:
+- editorial sequence
+- scroll
+description: Visual explainers, maps, charts and data stories curated into a year review.
+why_it_works: Editorial selection gives a complex world an information hierarchy; positive pattern for "Show change,
+  not inventory".
+best_suited_for:
+- company briefings
+- year/period reviews
+- executive start pages
+limitations: []
+library_notes: []
+patterns:
+- pat-narrative-briefing
+- pat-insight-feed
+keywords:
+- briefing
+- year in review
+- editorial
+- curation
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-014
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Reuters Graphics – 2025 in Graphics — Reuters, 2026 | Informations- und Interaktionsprinzip:
+    Visuelle Erklärer, Maps, Charts und Datastories | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Redaktionelle Selektion gibt einer komplexen Welt Informationshierarchie. Transfer: kuratiertes „Company Briefing“
+    statt Dashboard-Startseite. | Innovation / Transfer: 8 / 8'
+verification:
+  status: url-blocked-by-bot-protection
+  http_code: 403
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

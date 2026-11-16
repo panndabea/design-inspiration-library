@@ -1,0 +1,53 @@
+id: ref-earth-a-primer
+title: 'Earth: A Primer'
+url: https://earthprimer.com/
+creator: Chaim Gingold
+source_reports:
+- interactive-learning
+categories:
+- simulation
+- playable-story
+- science-education
+design_language: playful-systemic
+availability: app-primarily
+visual_characteristics:
+- book-like pages with embedded playable simulations
+interaction_patterns:
+- manipulate geological processes directly
+description: Geology as a playable simulation book.
+why_it_works: Conceptually important – every page is a toy that obeys the real model.
+best_suited_for:
+- science education
+- tablet/app experiences
+limitations:
+- Report caveat – primarily an app rather than a website; included as a conceptual reference.
+library_notes: []
+patterns:
+- pat-what-if-simulation
+- pat-playable-story
+keywords:
+- geology
+- simulation book
+- app
+- earth science
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-024
+  section: Top-Auswahl
+  excerpt: 'Projekt: Earth: A Primer | Warum es herausragt: Eigentlich eine App statt klassische Website, aber konzeptionell
+    enorm wichtig: Geologie als spielbares Simulationsbuch. | Ästh.: 10 | Int.: 10 | Did.: 10 | Orig.: 10 | MLU:
+    8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-074
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  excerpt: 'Projekt: Earth: A Primer | Thema: Geowissenschaften | Charakter: Vulkanismus, Erosion, Gletscher und
+    Tektonik als Spielsimulation; primär App. | Ästh.: 10 | Int.: 10 | MLU: 8 | Typ: Interactive Book'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

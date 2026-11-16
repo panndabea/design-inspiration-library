@@ -1,0 +1,53 @@
+id: ref-waitgpt
+title: WaitGPT
+url: https://arxiv.org/abs/2408.01703
+creator: Xie et al. (2024)
+source_reports:
+- beyond-dashboards
+categories:
+- ai-interface
+- provenance
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- live visualisation of generated analysis code as operation flow
+interaction_patterns:
+- inspect
+- verify and modify analysis steps during conversational analytics
+description: Conversational analytics with live visualisation of the generated code.
+why_it_works: Users can understand, check and change analysis steps; a small study (N=12) reported better error
+  detection and higher trust; positive pattern for "Make reasoning inspectable".
+best_suited_for:
+- AI assistants
+- data tools
+- any LLM-generated result that needs verification
+limitations:
+- Report caveat – small study (N=12).
+library_notes: []
+patterns:
+- pat-visual-provenance
+- pat-persistent-insight-workspace
+keywords:
+- llm
+- chat
+- code
+- verification
+- trust
+- conversational analytics
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-057
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: WaitGPT — Xie et al., 2024 | Informations- und Interaktionsprinzip: Conversational
+    Analytics + Live-Visualisierung des generierten Codes | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Nutzer können Analyseschritte verstehen, prüfen und verändern; kleine Studie mit N=12 berichtet bessere Fehlererkennung
+    und höheres Vertrauen. | Innovation / Transfer: 10 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,57 @@
+id: ref-seeing-circles-sines-signals
+title: Seeing Circles, Sines and Signals
+url: https://jackschaedler.github.io/circles-sines-signals/
+creator: Jack Schaedler
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- science-education
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- more than 30 small interactive figures
+- consistent diagram vocabulary
+interaction_patterns:
+- visual and auditory exploration
+- step-by-step manipulable signals
+description: A primer on digital signal processing and the Fourier transform guided by more than 30 interactive
+  visualisations that work visually and aurally.
+why_it_works: Combining sight and sound gives two complementary channels for the same abstract idea.
+best_suited_for:
+- technical education
+- audio/signal topics
+- multimodal explainers
+limitations: []
+library_notes: []
+patterns:
+- pat-progressive-complexity-ladder
+- pat-multimodal-representation
+- pat-inline-reactive-figure
+keywords:
+- signal processing
+- fourier
+- audio
+- sound
+- dsp
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-004
+  section: Top-Auswahl
+  excerpt: 'Projekt: Seeing Circles, Sines and Signals | Warum es herausragt: Mehr als 30 interaktive Visualisierungen
+    führen visuell und auditiv durch Signalverarbeitung und Fourier-Transformation. | Ästh.: 10 | Int.: 10 | Did.:
+    10 | Orig.: 10 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-047
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Circles, Sines, Signals | Thema & Besonderheit: DSP | Design / Interaktion: Über 30 interaktive
+    Visualisierungen. | Ästh.: 10 | Int.: 10 | MLU: 10 | Typ: Interactive Textbook'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,47 @@
+id: ref-storyfacets
+title: StoryFacets
+url: https://vis.khoury.northeastern.edu/pubs/Park2022StoryfacetsDesignStudy/
+creator: Northeastern University (Khoury Vis Lab)
+source_reports:
+- beyond-dashboards
+categories:
+- provenance
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- sensemaking history represented as a story
+interaction_patterns:
+- store and reconstruct sensemaking paths
+description: Storage and reconstruction of sensemaking processes (2022).
+why_it_works: Analysis becomes not only a result but a traceable story; positive pattern for "Make evidence addressable".
+best_suited_for:
+- collaborative analytics
+- audit trails
+- research notebooks
+limitations: []
+library_notes: []
+patterns:
+- pat-visual-provenance
+- pat-persistent-insight-workspace
+keywords:
+- provenance
+- sensemaking
+- history
+- audit
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-054
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: StoryFacets — Northeastern, 2022 | Informations- und Interaktionsprinzip:
+    Speicherung und Rekonstruktion von Sensemaking-Verläufen | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Analyse wird nicht nur Ergebnis, sondern nachvollziehbare Geschichte. Transfer: Collaborative Analytics und
+    Auditability. | Innovation / Transfer: 9 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,45 @@
+id: ref-loopy
+title: LOOPY
+url: https://ncase.me/loopy/
+creator: Nicky Case
+source_reports:
+- interactive-learning
+categories:
+- playground
+- simulation
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- hand-drawn style nodes and arrows
+interaction_patterns:
+- draw your own feedback systems and simulate them
+description: A tool to draw your own feedback systems and simulate them.
+why_it_works: Users build the model themselves, which makes systems thinking tangible.
+best_suited_for:
+- systems thinking
+- strategy workshops
+- causal models
+limitations: []
+library_notes: []
+patterns:
+- pat-what-if-simulation
+- pat-relationship-graph
+keywords:
+- systems thinking
+- feedback loops
+- causal
+- drawing
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-114
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: LOOPY | Thema: Systemdenken | Charakter: Eigene Feedback-Systeme zeichnen und simulieren. |
+    Ästh.: 9 | Int.: 10 | MLU: 7 | Typ: Tool'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

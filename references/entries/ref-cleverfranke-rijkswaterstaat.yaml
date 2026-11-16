@@ -1,0 +1,50 @@
+id: ref-cleverfranke-rijkswaterstaat
+title: CLEVER°FRANKE – Rijkswaterstaat Data Landscape
+url: https://www.cleverfranke.com/project/rws-interactive-data-installation/toolkit/visual-design
+creator: CLEVER°FRANKE
+source_reports:
+- beyond-dashboards
+categories:
+- spatial-installation
+- data-physicalisation
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- physical/interactive data landscape
+interaction_patterns:
+- installation-based exploration
+description: Physical/interactive data landscape that makes normally invisible infrastructure and sensor data spatially
+  tangible.
+why_it_works: Invisible infrastructure gains presence; transfers to operations rooms and physical decision spaces.
+best_suited_for:
+- installations
+- exhibitions
+- operations rooms
+limitations:
+- Report rates practical transferability lower (innovation 10 / transfer 6); data physicalisation is expensive,
+  slow and hard to update.
+library_notes: []
+patterns:
+- pat-spatial-data-room
+keywords:
+- installation
+- physical
+- sensors
+- infrastructure
+- landscape
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-029
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: CLEVER°FRANKE – Rijkswaterstaat Data Landscape | Informations- und Interaktionsprinzip:
+    Physische/interaktive Datenlandschaft | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Macht
+    normalerweise unsichtbare Infrastruktur- und Sensordaten räumlich erfahrbar. Transfer: Operations Rooms und
+    physische Entscheidungsräume. | Innovation / Transfer: 10 / 6'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,61 @@
+id: ref-ciechanowski-explorable-essays
+title: Bartosz Ciechanowski – explorable essays
+url: https://ciechanow.ski/
+creator: Bartosz Ciechanowski
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- simulation
+- science-education
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- elegant long-form typography
+- polished 2D/3D simulations embedded in the text
+- one figure per idea
+interaction_patterns:
+- sliders and drag handles on inline simulations
+- rotate/inspect 3D models
+- progression from simple to complex
+description: Long-form physics and engineering essays (airfoil, cameras, watches, GPS, gears, sound, …) in which
+  every step of the argument is carried by a manipulable simulation.
+why_it_works: The report calls it the current gold standard for physical-technical explorable essays because typography,
+  simulation quality and a carefully staged progression from simple to complex reinforce each other.
+best_suited_for:
+- technical explainers
+- product or mechanism explanations
+- onboarding into complex physical systems
+limitations:
+- Report caveat – older or WebGL-heavy pieces may have browser/device compatibility issues; interactions were not
+  manually tested on every device.
+library_notes:
+- Inference – production effort per essay is very high; transfer the staging and one-mechanism-per-figure discipline,
+  not the visual style.
+patterns:
+- pat-single-mechanism-explorable
+- pat-progressive-complexity-ladder
+- pat-inline-reactive-figure
+keywords:
+- physics
+- engineering
+- mechanism
+- 3d
+- essay
+- gold standard
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-001
+  section: Top-Auswahl
+  excerpt: 'Projekt: Bartosz Ciechanowski | Warum es herausragt: Für mich derzeit der Goldstandard für physikalisch-technische
+    Explorable Essays: elegante Typografie, hochpolierte 2D/3D-Simulationen, außergewöhnliche Progression vom Einfachen
+    zum Komplexen. Sein Archiv reicht von Flugprofilen über Kameras, Uhren und GPS bis zu Tesserakten. | Ästh.:
+    10 | Int.: 10 | Did.: 10 | Orig.: 10 | MLU: 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

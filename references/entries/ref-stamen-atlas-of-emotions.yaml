@@ -1,0 +1,48 @@
+id: ref-stamen-atlas-of-emotions
+title: Stamen – Atlas of Emotions
+url: https://stamen.com/data-visualization/
+creator: Stamen / Paul Ekman
+source_reports:
+- beyond-dashboards
+categories:
+- knowledge-map
+- information-design
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- emotions as "continents"
+- states and actions
+interaction_patterns:
+- navigate a conceptual map
+description: Emotions mapped as "continents", states and actions – conceptual mapping instead of a chart.
+why_it_works: A qualitative concept space becomes navigable; transfers to customer/employee experience state spaces.
+best_suited_for:
+- qualitative frameworks
+- concept explainers
+- experience mapping
+limitations:
+- The report links Stamen's data-visualisation overview page, not a direct project URL.
+library_notes: []
+patterns:
+- pat-semantic-landscape
+keywords:
+- conceptual map
+- emotions
+- metaphor
+- qualitative
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-034
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Stamen – Atlas of Emotions — Stamen / Paul Ekman | Informations- und Interaktionsprinzip:
+    Emotionen als „Kontinente“, Zustände und Aktionen | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Konzeptuelles Mapping statt Chart. Transfer: qualitative Zustandsräume, Customer/Employee Experience. | Innovation
+    / Transfer: 10 / 7'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

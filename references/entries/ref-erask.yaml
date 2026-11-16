@@ -1,0 +1,46 @@
+id: ref-erask
+title: Erask
+url: https://erask.org/
+creator: null
+source_reports:
+- interactive-learning
+categories:
+- timeline-history
+- knowledge-map
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- 3D globe with relief
+interaction_patterns:
+- select time and place
+- explore historical events on the globe
+description: Historical events on a 3D globe with relief, temporal reference and location selection.
+why_it_works: Time and place are explored together, so history gains geographic context.
+best_suited_for:
+- history explainers
+- geo-temporal datasets
+limitations: []
+library_notes:
+- Inference – 3D globes are expensive; only use when geography is semantically essential.
+patterns:
+- pat-geo-temporal-atlas
+keywords:
+- history
+- globe
+- 3d
+- geography
+- time
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-134
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: Erask | Thema: Geschichte/Geografie | Charakter: Historische Ereignisse auf einem 3D-Globus
+    mit Relief, Zeitbezug und Ortsauswahl. | Ästh.: 9 | Int.: 10 | MLU: 6 | Typ: Interactive Atlas'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

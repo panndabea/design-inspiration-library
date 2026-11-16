@@ -1,0 +1,44 @@
+id: ref-communicating-interactive-articles
+title: Communicating with Interactive Articles
+url: https://distill.pub/2020/communicating-with-interactive-articles/
+creator: Fred Hohman et al. (Distill)
+source_reports:
+- interactive-learning
+categories:
+- research-publication
+- meta-design
+design_language: research-native
+availability: archived
+visual_characteristics:
+- research essay about the medium itself
+interaction_patterns:
+- examples of interactive article techniques
+description: An analysis of the interactive-article medium itself (meta-didactics).
+why_it_works: Provides research grounding for when and why interactive articles help readers.
+best_suited_for:
+- deciding whether interactivity is justified
+- design reviews
+limitations:
+- Report caveat – Distill is paused but archived.
+library_notes: []
+patterns:
+- pat-inline-reactive-figure
+keywords:
+- research
+- interactive articles
+- meta
+- design guidance
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-092
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: Communicating with Interactive Articles | Thema: Metadidaktik | Charakter: Analyse genau dieser
+    Medienform. | Ästh.: 9 | Int.: 8 | MLU: 10 | Typ: Research Essay'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

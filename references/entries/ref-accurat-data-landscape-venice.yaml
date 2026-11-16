@@ -1,0 +1,49 @@
+id: ref-accurat-data-landscape-venice
+title: Accurat – Data Landscape Venice
+url: https://studio.accurat.it/work/data-landscapes-venice
+creator: Accurat
+source_reports:
+- beyond-dashboards
+categories:
+- generative-visualisation
+- spatial-installation
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- image analysis + data + generative landscape
+interaction_patterns:
+- not documented in the report
+description: Combines image analysis, data and a generative landscape of a physical environment (2024).
+why_it_works: Connects physical environment and data into a semantic landscape; transfers to brand, market or customer
+  landscapes.
+best_suited_for:
+- brand experiences
+- exhibitions
+- market landscapes
+limitations:
+- Report rates transferability lower (innovation 10 / transfer 6).
+library_notes: []
+patterns:
+- pat-semantic-landscape
+- pat-spatial-data-room
+keywords:
+- generative
+- landscape
+- venice
+- image analysis
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-041
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Accurat – Data Landscape: Venice — Accurat, 2024 | Informations- und Interaktionsprinzip:
+    Bildanalyse + Daten + generative Landschaft | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Verbindet physische Umgebung und Daten zu semantischer Landschaft. Transfer: Brand-, Markt- oder Customer-Landscapes.
+    | Innovation / Transfer: 10 / 6'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

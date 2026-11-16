@@ -1,0 +1,56 @@
+id: ref-r2d3-visual-intro-ml
+title: R2D3 – A Visual Introduction to Machine Learning
+url: https://r2d3.us/visual-intro-to-machine-learning-part-1/
+creator: R2D3 (Stephanie Yee, Tony Chu)
+source_reports:
+- interactive-learning
+categories:
+- scrollytelling
+- ml-education
+- visual-essay
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- data points that physically move and regroup as the reader scrolls
+interaction_patterns:
+- scroll-driven transitions
+- the model is assembled step by step
+description: Scrollytelling essay in which the reader mentally "builds" a decision tree while scrolling; part 2
+  covers bias and variance.
+why_it_works: The report calls it the paradigm example of scrollytelling – scrolling is mapped to construction of
+  the model, not to decoration.
+best_suited_for:
+- narrative explainers
+- onboarding stories
+- history or process narratives
+limitations: []
+library_notes:
+- Inference – scroll-jacked motion must respect reduced-motion settings and offer a non-scroll fallback.
+patterns:
+- pat-scroll-driven-construction
+keywords:
+- scrollytelling
+- decision tree
+- machine learning
+- narrative
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-005
+  section: Top-Auswahl
+  excerpt: 'Projekt: R2D3 – Visual Introduction to Machine Learning | Warum es herausragt: Paradebeispiel für Scrollytelling:
+    Der Leser „baut“ beim Scrollen gedanklich einen Entscheidungsbaum auf. | Ästh.: 10 | Int.: 9 | Did.: 10 | Orig.:
+    10 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-106
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: R2D3 – Decision Trees | Thema: Decision Trees | Charakter: Exzellentes Scrollytelling. | Ästh.:
+    10 | Int.: 9 | MLU: 10 | Typ: Visual Essay'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

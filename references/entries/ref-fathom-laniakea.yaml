@@ -1,0 +1,48 @@
+id: ref-fathom-laniakea
+title: Fathom – Laniakea
+url: https://laniakea.fathom.info/
+creator: Fathom
+source_reports:
+- beyond-dashboards
+categories:
+- knowledge-map
+- archive-interface
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- '"topography of knowledge" for large archives'
+- topic clusters
+interaction_patterns:
+- spatial navigation of clusters instead of search alone
+description: A "topography of knowledge" for large archives (2019).
+why_it_works: Strong archetype for knowledge landscapes – spatial orientation in topic clusters emerges in addition
+  to search.
+best_suited_for:
+- archives
+- document collections
+- knowledge bases
+limitations: []
+library_notes: []
+patterns:
+- pat-semantic-landscape
+keywords:
+- archive
+- knowledge
+- topography
+- clusters
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-023
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Fathom – Laniakea — Fathom, 2019 | Informations- und Interaktionsprinzip:
+    „Topography of knowledge“ für große Archive | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Starker Archetyp für Wissenslandschaften. Statt Suche allein entsteht räumliche Orientierung in Themenclustern.
+    | Innovation / Transfer: 10 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,65 @@
+id: ref-complexity-explorables
+title: Complexity Explorables
+url: https://complexity-explorables.org/
+creator: Dirk Brockmann and team
+source_reports:
+- interactive-learning
+categories:
+- simulation
+- explorable-explanation
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- consistent design system for dynamic models
+- one system per piece
+interaction_patterns:
+- one central interaction per model
+- live parameter changes
+description: Very broad collection of interactive models on physics, biology, epidemiology, networks, evolution
+  and dynamics (e.g. "Berlin 8:00 a.m.", "Yo, Kohonen!").
+why_it_works: Each piece is deliberately restricted to one system and one central interaction, within a reusable
+  design system.
+best_suited_for:
+- simulation-heavy education
+- complex-systems topics
+- reusable explorable component libraries
+limitations:
+- Report caveat – for several entries the report links the stable collection because individual URLs were not separately
+  verified.
+library_notes: []
+patterns:
+- pat-what-if-simulation
+- pat-single-mechanism-explorable
+keywords:
+- complex systems
+- epidemics
+- networks
+- dynamics
+- simulation
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-019
+  section: Top-Auswahl
+  excerpt: 'Projekt: Complexity Explorables | Warum es herausragt: Sehr breite Sammlung interaktiver Modelle zu
+    Physik, Biologie, Epidemiologie, Netzwerken, Evolution und Dynamik. | Ästh.: 9 | Int.: 10 | Did.: 9 | Orig.:
+    10 | MLU: 8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-048
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Complexity Explorables | Thema & Besonderheit: Komplexität | Design / Interaktion: Breite Galerie
+    aus dynamischen Modellen. | Ästh.: 9 | Int.: 10 | MLU: 8 | Typ: Sammlung'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-049
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Stranger Things | Thema & Besonderheit: Strange Attractors | Design / Interaktion: Chaotische
+    Attraktoren als dynamisches System. | Ästh.: 9 | Int.: 10 | MLU: 8 | Typ: Explorable'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

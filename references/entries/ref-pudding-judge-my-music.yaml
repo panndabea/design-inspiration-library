@@ -1,0 +1,59 @@
+id: ref-pudding-judge-my-music
+title: How Bad Is Your Streaming Music?
+url: https://pudding.cool/2021/10/judge-my-music/
+creator: The Pudding
+source_reports:
+- interactive-learning
+- beyond-dashboards
+categories:
+- personalised-experience
+- data-journalism
+- conversational-interface
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- chat-like dialogue presentation
+interaction_patterns:
+- connect personal data
+- dialogue-style exploration of one's own data
+description: Personalised, dialogue-like exploration of the visitor's own music data.
+why_it_works: Data becomes an individual experience instead of a generic overview; Report 19 transfers it to a personal
+  management briefing based on role and context data.
+best_suited_for:
+- personal reports
+- onboarding
+- role-based briefings
+limitations: []
+library_notes:
+- Inference – personal data use requires explicit consent and privacy handling.
+patterns:
+- pat-personalised-data-experience
+- pat-persistent-insight-workspace
+keywords:
+- personalised
+- dialogue
+- chat
+- music
+- own data
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-132
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: How Bad Is Your Streaming Music? | Thema: Musik/Kultur | Charakter: Personalisierte, satirische
+    Dateninteraktion. | Ästh.: 10 | Int.: 10 | MLU: 5 | Typ: Interactive Story'
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-006
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: How Bad Is Your Streaming Music? — The Pudding, 2021 | Informations- und Interaktionsprinzip:
+    Personalisierte, dialogartige Exploration eigener Musikdaten | Beyond-Dashboard-Wert, Evidenz/Limitation und
+    Enterprise-Transfer: Daten werden zur individuellen Experience statt zur generischen Übersicht. Transfer: persönliches
+    Management-Briefing anhand Rollen- und Kontextdaten. | Innovation / Transfer: 9 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,49 @@
+id: ref-mit-pluto
+title: Pluto
+url: https://vis.mit.edu/pubs/pluto/
+creator: MIT Visualization Group / Tableau
+source_reports:
+- beyond-dashboards
+categories:
+- ai-interface
+- mixed-initiative
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- text and chart linked
+interaction_patterns:
+- select chart regions to generate text; text can change the visualisation
+description: Mixed-initiative authoring – text ↔ chart ↔ selection (2025).
+why_it_works: Users can mark chart regions and generate text, and text can change the visualisation; recommendations
+  stay under author control ("Preserve agency").
+best_suited_for:
+- AI-assisted reporting
+- analyst tools
+- writing with data
+limitations: []
+library_notes: []
+patterns:
+- pat-mixed-initiative-direct-manipulation
+- pat-inline-reactive-figure
+keywords:
+- mixed initiative
+- ai authoring
+- text chart
+- agency
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-050
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Pluto — MIT/Tableau, 2025 | Informations- und Interaktionsprinzip: Mixed Initiative:
+    Text ↔ Chart ↔ Selektion | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer: Besonders relevant:
+    Nutzer kann Chartbereiche markieren und Text erzeugen; Text kann wiederum Visualisierung verändern. | Innovation
+    / Transfer: 10 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports
