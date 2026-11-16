@@ -56,3 +56,8 @@ def test_validator_rejects_truncated_url(monkeypatch):
     monkeypatch.setattr(validate_library, "load_entries", lambda: entries)
     errors = validate_library.validate()
     assert any("does not occur in any original report" in e for e in errors)
+
+
+def test_plural_query_expands_synonyms():
+    assert search_library.query_terms("trends") == search_library.query_terms("trend")
+    assert "global" in search_library.query_terms("trends")

@@ -55,6 +55,9 @@ def tokens(text: str) -> list[str]:
     return out
 
 
+SYNONYMS_BY_TOKEN = {tokens(key)[0]: syns for key, syns in SYNONYMS.items()}
+
+
 def flatten(value) -> str:
     if isinstance(value, (list, tuple)):
         return " ".join(flatten(v) for v in value)
@@ -67,7 +70,7 @@ def query_terms(query: str) -> dict[str, float]:
     terms: dict[str, float] = {}
     for tok in tokens(query):
         terms[tok] = max(terms.get(tok, 0), 1.0)
-        for syn in SYNONYMS.get(tok, []):
+        for syn in SYNONYMS_BY_TOKEN.get(tok, []):
             for s in tokens(syn):
                 terms.setdefault(s, 0.4)
     return terms
