@@ -24,6 +24,8 @@ import yaml
 from build_index import render
 from library import ROOT, load_entries, load_patterns, rel
 
+URL_RE = re.compile(r"https?://[^\s)\]>\"'`]+")
+
 REPORTS = {
     "interactive-learning": "research/original/interactive-learning/deep-research-report-18.md",
     "beyond-dashboards": "research/original/beyond-dashboards/deep-research-report-19.md",
@@ -72,6 +74,9 @@ def check_types(item: dict, required: dict, where: str, errors: list[str]) -> No
 def validate() -> list[str]:
     errors: list[str] = []
     originals = {slug: (ROOT / path).read_text(encoding="utf-8") for slug, path in REPORTS.items()}
+    report_urls = {
+        slug: {u.rstrip(".,;:/") for u in URL_RE.findall(text)} for slug, text in originals.items()
+    }
     raw_ids = set()
     for slug, text in originals.items():
         raw_path = ROOT / f"research/processed/{slug}-raw-references.yaml"
@@ -102,7 +107,7 @@ def validate() -> list[str]:
         if url in seen_urls:
             errors.append(f"{where}: duplicate URL also used by {seen_urls[url]}")
         seen_urls[url] = e["id"]
-        found_in = [s for s, text in originals.items() if e["url"] in text or url in text]
+        found_in = [s for s, urls in report_urls.items() if e["url"].rstrip(".,;:/") in urls]
         if not found_in:
             errors.append(f"{where}: URL {e['url']} does not occur in any original report")
         for s in e["source_reports"]:

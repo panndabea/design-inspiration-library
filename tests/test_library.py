@@ -47,3 +47,12 @@ def test_validator_rejects_missing_field(monkeypatch):
     del broken["why_it_works"]
     monkeypatch.setattr(validate_library, "load_entries", lambda: [broken] + entries[1:])
     assert any("missing field 'why_it_works'" in e for e in validate_library.validate())
+
+
+def test_validator_rejects_truncated_url(monkeypatch):
+    entries = copy.deepcopy(library.load_entries())
+    target = next(e for e in entries if e["id"] == "ref-accurat-data-landscape-venice")
+    target["url"] = "https://studio.accurat.it/work/data-land"
+    monkeypatch.setattr(validate_library, "load_entries", lambda: entries)
+    errors = validate_library.validate()
+    assert any("does not occur in any original report" in e for e in errors)
