@@ -1,0 +1,2141 @@
+report: interactive-learning
+topic: Interactive Learning & Beautiful Web Experiences
+title: Die schönsten visuellen und interaktiven Lernwebseiten im Internet
+original: research/original/interactive-learning/deep-research-report-18.md
+original_sha256: 8eb185d67fa711984b0fca6b1cc2d67c532d09b8c9a3f820abb6de36fa320b77
+language: de
+reference_count: 155
+references:
+- raw_id: interactive-learning-001
+  title: Bartosz Ciechanowski
+  url: https://ciechanow.ski/
+  section: Top-Auswahl
+  line: 17
+  kind: table-row
+  fields:
+    Rang: '1'
+    Projekt: Bartosz Ciechanowski
+    Warum es herausragt: 'Für mich derzeit der Goldstandard für physikalisch-technische Explorable Essays: elegante
+      Typografie, hochpolierte 2D/3D-Simulationen, außergewöhnliche Progression vom Einfachen zum Komplexen. Sein
+      Archiv reicht von Flugprofilen über Kameras, Uhren und GPS bis zu Tesserakten.'
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-002
+  title: MLU‑Explain
+  url: https://mlu-explain.github.io/
+  section: Top-Auswahl
+  line: 18
+  kind: table-row
+  fields:
+    Rang: '2'
+    Projekt: MLU‑Explain
+    Warum es herausragt: 'Die Referenz: Machine Learning als visuelles Essay mit manipulierbaren Modellen statt
+      klassischem Lehrbuch.'
+    Ästh.: '10'
+    Int.: '9'
+    Did.: '10'
+    Orig.: '9'
+    MLU: '10'
+- raw_id: interactive-learning-003
+  title: Distill
+  url: https://distill.pub/
+  section: Top-Auswahl
+  line: 19
+  kind: table-row
+  fields:
+    Rang: '3'
+    Projekt: Distill
+    Warum es herausragt: 'Wissenschaftliches Publizieren „native to the web“: reaktive Diagramme, Modelle und Visualisierungen
+      als integraler Teil der Argumentation.'
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-004
+  title: Seeing Circles, Sines and Signals
+  url: https://jackschaedler.github.io/circles-sines-signals/
+  section: Top-Auswahl
+  line: 20
+  kind: table-row
+  fields:
+    Rang: '4'
+    Projekt: Seeing Circles, Sines and Signals
+    Warum es herausragt: Mehr als 30 interaktive Visualisierungen führen visuell und auditiv durch Signalverarbeitung
+      und Fourier-Transformation.
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-005
+  title: R2D3 – Visual Introduction to Machine Learning
+  url: https://r2d3.us/visual-intro-to-machine-learning-part-1/
+  section: Top-Auswahl
+  line: 21
+  kind: table-row
+  fields:
+    Rang: '5'
+    Projekt: R2D3 – Visual Introduction to Machine Learning
+    Warum es herausragt: 'Paradebeispiel für Scrollytelling: Der Leser „baut“ beim Scrollen gedanklich einen Entscheidungsbaum
+      auf.'
+    Ästh.: '10'
+    Int.: '9'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-006
+  title: How to Use t‑SNE Effectively
+  url: https://distill.pub/2016/misread-tsne/
+  section: Top-Auswahl
+  line: 22
+  kind: table-row
+  fields:
+    Rang: '6'
+    Projekt: How to Use t‑SNE Effectively
+    Warum es herausragt: Ein Algorithmus wird nicht beschrieben, sondern durch zahlreiche manipulierte Datensituationen
+      erfahrbar gemacht.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-007
+  title: The Map of Mathematics
+  url: https://mathmap.quantamagazine.org/
+  section: Top-Auswahl
+  line: 23
+  kind: table-row
+  fields:
+    Rang: '7'
+    Projekt: The Map of Mathematics
+    Warum es herausragt: Mathematik als räumlich navigierbare Wissenslandschaft; herausragende Informationsarchitektur
+      und visuelle Metapher.
+    Ästh.: '10'
+    Int.: '8'
+    Did.: '9'
+    Orig.: '10'
+    MLU: '8'
+- raw_id: interactive-learning-008
+  title: Activation Atlas
+  url: https://distill.pub/2019/activation-atlas/
+  section: Top-Auswahl
+  line: 24
+  kind: table-row
+  fields:
+    Rang: '8'
+    Projekt: Activation Atlas
+    Warum es herausragt: Neural-Network-Features werden als zoombare Landschaft organisiert; Forschung und Informationsdesign
+      verschmelzen.
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '9'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-009
+  title: Transformer Explainer
+  url: https://poloclub.github.io/transformer-explainer/
+  section: Top-Auswahl
+  line: 25
+  kind: table-row
+  fields:
+    Rang: '9'
+    Projekt: Transformer Explainer
+    Warum es herausragt: Tokens, Attention und Transformer-Bausteine lassen sich direkt untersuchen; explizit als
+      interaktiver Lern-Explainer konzipiert.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '9'
+    MLU: '10'
+- raw_id: interactive-learning-010
+  title: Diffusion Explainer
+  url: https://poloclub.github.io/diffusion-explainer/
+  section: Top-Auswahl
+  line: 26
+  kind: table-row
+  fields:
+    Rang: '10'
+    Projekt: Diffusion Explainer
+    Warum es herausragt: Stable Diffusion wird als manipulierbarer Prozess statt als statisches Architekturdiagramm
+      erklärt.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-011
+  title: Explained Visually
+  url: https://setosa.io/ev/
+  section: Top-Auswahl
+  line: 27
+  kind: table-row
+  fields:
+    Rang: '11'
+    Projekt: Explained Visually
+    Warum es herausragt: Minimalistische, äußerst klare Visualisierungen zu PCA, Eigenvektoren, Markov-Ketten, Regression,
+      Trigonometrie usw.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '9'
+    MLU: '10'
+- raw_id: interactive-learning-012
+  title: Seeing Theory
+  url: https://seeing-theory.brown.edu/
+  section: Top-Auswahl
+  line: 28
+  kind: table-row
+  fields:
+    Rang: '12'
+    Projekt: Seeing Theory
+    Warum es herausragt: Wahrscheinlich eine der gelungensten interaktiven Einführungen in Wahrscheinlichkeit und
+      Statistik.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '9'
+    MLU: '9'
+- raw_id: interactive-learning-013
+  title: Immersive Linear Algebra
+  url: https://immersivemath.com/ila/
+  section: Top-Auswahl
+  line: 29
+  kind: table-row
+  fields:
+    Rang: '13'
+    Projekt: Immersive Linear Algebra
+    Warum es herausragt: Ein vollständiges Lehrbuch, das seine Argumentation um interaktive Figuren herum aufbaut.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '9'
+- raw_id: interactive-learning-014
+  title: An Interactive Introduction to Fourier Transforms
+  url: https://jezzamon.com/fourier/
+  section: Top-Auswahl
+  line: 30
+  kind: table-row
+  fields:
+    Rang: '14'
+    Projekt: An Interactive Introduction to Fourier Transforms
+    Warum es herausragt: 'Zeichnen, hören, zerlegen, wieder zusammensetzen: Fourier wird unmittelbar erfahrbar.'
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '9'
+- raw_id: interactive-learning-015
+  title: Quantum Computing for the Very Curious
+  url: https://quantum.country/qcvc
+  section: Top-Auswahl
+  line: 31
+  kind: table-row
+  fields:
+    Rang: '15'
+    Projekt: Quantum Computing for the Very Curious
+    Warum es herausragt: Essay + interaktive Erinnerungsfragen + Spaced Repetition; eine radikale Neuinterpretation
+      des digitalen Lehrbuchs.
+    Ästh.: '9'
+    Int.: '8'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '8'
+- raw_id: interactive-learning-016
+  title: Visualizing Algorithms
+  url: https://bost.ocks.org/mike/algorithms/
+  section: Top-Auswahl
+  line: 32
+  kind: table-row
+  fields:
+    Rang: '16'
+    Projekt: Visualizing Algorithms
+    Warum es herausragt: Mike Bostocks einflussreicher Essay zeigt, wie Visualisierung abstrakte Prozesse direkt
+      zu Denkwerkzeugen machen kann.
+    Ästh.: '10'
+    Int.: '8'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '9'
+- raw_id: interactive-learning-017
+  title: Red Blob Games
+  url: https://www.redblobgames.com/
+  section: Top-Auswahl
+  line: 33
+  kind: table-row
+  fields:
+    Rang: '17'
+    Projekt: Red Blob Games
+    Warum es herausragt: Jahrzehntelang verfeinerte interaktive Erklärungen zu A*, Hex-Grids, Noise, Graphen, Sichtbarkeit
+      und prozeduraler Geometrie.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '9'
+- raw_id: interactive-learning-018
+  title: The Evolution of Trust
+  url: https://ncase.me/trust/
+  section: Top-Auswahl
+  line: 34
+  kind: table-row
+  fields:
+    Rang: '18'
+    Projekt: The Evolution of Trust
+    Warum es herausragt: Spieltheorie wird zur spielbaren Geschichte über Kooperation und Vertrauen. Nicky Case
+      führt es als eines seiner zentralen Explorables.
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '8'
+- raw_id: interactive-learning-019
+  title: Complexity Explorables
+  url: https://complexity-explorables.org/
+  section: Top-Auswahl
+  line: 35
+  kind: table-row
+  fields:
+    Rang: '19'
+    Projekt: Complexity Explorables
+    Warum es herausragt: Sehr breite Sammlung interaktiver Modelle zu Physik, Biologie, Epidemiologie, Netzwerken,
+      Evolution und Dynamik.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '9'
+    Orig.: '10'
+    MLU: '8'
+- raw_id: interactive-learning-020
+  title: Mathigon
+  url: https://mathigon.org/
+  section: Top-Auswahl
+  line: 36
+  kind: table-row
+  fields:
+    Rang: '20'
+    Projekt: Mathigon
+    Warum es herausragt: Interaktive Kurse mit Simulationen, Manipulatives, Animationen und mathematischen Spielen;
+      besonders stark bei Fraktalen, Graphen und Geometrie.
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '9'
+    Orig.: '9'
+    MLU: '8'
+- raw_id: interactive-learning-021
+  title: Google PAIR AI Explorables
+  url: https://pair.withgoogle.com/explorables/
+  section: Top-Auswahl
+  line: 37
+  kind: table-row
+  fields:
+    Rang: '21'
+    Projekt: Google PAIR AI Explorables
+    Warum es herausragt: Aktuelle KI-Konzepte wie Sparse Autoencoders, Grokking und Interpretierbarkeit als hochwertige
+      interaktive Essays.
+    Ästh.: '9'
+    Int.: '9'
+    Did.: '10'
+    Orig.: '9'
+    MLU: '10'
+- raw_id: interactive-learning-022
+  title: GAN Lab
+  url: https://poloclub.github.io/ganlab/
+  section: Top-Auswahl
+  line: 38
+  kind: table-row
+  fields:
+    Rang: '22'
+    Projekt: GAN Lab
+    Warum es herausragt: Man trainiert ein GAN im Browser und beobachtet Generator und Diskriminator beim Lernen.
+    Ästh.: '9'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '10'
+- raw_id: interactive-learning-023
+  title: The Pudding
+  url: https://pudding.cool/
+  section: Top-Auswahl
+  line: 39
+  kind: table-row
+  fields:
+    Rang: '23'
+    Projekt: The Pudding
+    Warum es herausragt: Eine ganze Redaktion, die Kultur, Gesellschaft und Datenjournalismus konsequent als visuelle
+      Essays denkt.
+    Ästh.: '10'
+    Int.: '8'
+    Did.: '9'
+    Orig.: '10'
+    MLU: '7'
+- raw_id: interactive-learning-024
+  title: 'Earth: A Primer'
+  url: https://earthprimer.com/
+  section: Top-Auswahl
+  line: 40
+  kind: table-row
+  fields:
+    Rang: '24'
+    Projekt: 'Earth: A Primer'
+    Warum es herausragt: 'Eigentlich eine App statt klassische Website, aber konzeptionell enorm wichtig: Geologie
+      als spielbares Simulationsbuch.'
+    Ästh.: '10'
+    Int.: '10'
+    Did.: '10'
+    Orig.: '10'
+    MLU: '8'
+- raw_id: interactive-learning-025
+  title: Brain Flux
+  url: https://gallicchio.github.io/brainflux/
+  section: Top-Auswahl
+  line: 41
+  kind: table-row
+  fields:
+    Rang: '25'
+    Projekt: Brain Flux
+    Warum es herausragt: 'Ein neuerer Geheimtipp für Physik: Fourier-Raum, Schrödinger-Gleichung, Streuung, Wellen
+      und Optik werden als echte Simulationen manipuliert.'
+    Ästh.: '8'
+    Int.: '10'
+    Did.: '9'
+    Orig.: '9'
+    MLU: '8'
+- raw_id: interactive-learning-026
+  title: Seeing Theory
+  url: https://seeing-theory.brown.edu/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 51
+  kind: table-row
+  fields:
+    Projekt: Seeing Theory
+    Thema & Besonderheit: Wahrscheinlichkeit & Statistik
+    Design / Interaktion: D3-basierte Manipulationen über sechs Kapitel.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Sammlung
+- raw_id: interactive-learning-027
+  title: Basic Probability
+  url: https://seeing-theory.brown.edu/basic-probability/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 52
+  kind: table-row
+  fields:
+    Projekt: Basic Probability
+    Thema & Besonderheit: Wahrscheinlichkeit
+    Design / Interaktion: Gewichtete Münzen und Wahrscheinlichkeitsräume direkt manipulieren.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-028
+  title: Probability Distributions
+  url: https://seeing-theory.brown.edu/probability-distributions/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 53
+  kind: table-row
+  fields:
+    Projekt: Probability Distributions
+    Thema & Besonderheit: Verteilungen, CLT
+    Design / Interaktion: Sampling, Verteilungen und CLT dynamisch untersuchen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-029
+  title: Bayesian Inference
+  url: https://seeing-theory.brown.edu/bayesian-inference/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 54
+  kind: table-row
+  fields:
+    Projekt: Bayesian Inference
+    Thema & Besonderheit: Bayes
+    Design / Interaktion: Prior und Posterior mit Slidern und Simulationen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-030
+  title: Regression Analysis
+  url: https://seeing-theory.brown.edu/regression-analysis/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 55
+  kind: table-row
+  fields:
+    Projekt: Regression Analysis
+    Thema & Besonderheit: Regression, ANOVA
+    Design / Interaktion: Datenpunkte verschieben und statistische Größen live beobachten.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-031
+  title: Immersive Linear Algebra
+  url: https://immersivemath.com/ila/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 56
+  kind: table-row
+  fields:
+    Projekt: Immersive Linear Algebra
+    Thema & Besonderheit: Lineare Algebra
+    Design / Interaktion: Komplettes Lehrbuch mit interaktiven Figuren.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Plattform
+- raw_id: interactive-learning-032
+  title: Eigenvalues & Eigenvectors
+  url: https://immersivemath.com/ila/ch10_eigen/ch10.html
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 57
+  kind: table-row
+  fields:
+    Projekt: Eigenvalues & Eigenvectors
+    Thema & Besonderheit: Eigenvektoren
+    Design / Interaktion: „Find the Eigenvector“-Spiel und dynamische lineare Abbildungen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-033
+  title: Mathigon
+  url: https://mathigon.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 58
+  kind: table-row
+  fields:
+    Projekt: Mathigon
+    Thema & Besonderheit: Mathematik
+    Design / Interaktion: Hochpolierte interaktive Lernumgebung.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '8'
+    Typ: Plattform
+- raw_id: interactive-learning-034
+  title: Mathigon Fractals
+  url: https://mathigon.org/course/fractals/introduction
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 59
+  kind: table-row
+  fields:
+    Projekt: Mathigon Fractals
+    Thema & Besonderheit: Fraktale
+    Design / Interaktion: Schrittweise Exploration mit dynamischen Konstruktionen.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '8'
+    Typ: Einzelkurs
+- raw_id: interactive-learning-035
+  title: Mathigon Mandelbrot
+  url: https://mathigon.org/course/fractals/mandelbrot
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 60
+  kind: table-row
+  fields:
+    Projekt: Mathigon Mandelbrot
+    Thema & Besonderheit: Mandelbrotmenge
+    Design / Interaktion: Iterationen und Orbits visuell entdecken.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-036
+  title: Mathigon Polypad
+  url: https://mathigon.org/polypad
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 61
+  kind: table-row
+  fields:
+    Projekt: Mathigon Polypad
+    Thema & Besonderheit: Geometrie/Manipulatives
+    Design / Interaktion: Freies mathematisches Experimentierfeld.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '7'
+    Typ: Tool
+- raw_id: interactive-learning-037
+  title: Map of Mathematics
+  url: https://mathmap.quantamagazine.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 62
+  kind: table-row
+  fields:
+    Projekt: Map of Mathematics
+    Thema & Besonderheit: Mathematiklandschaft
+    Design / Interaktion: Wissen als visuell navigierbares Netzwerk.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-038
+  title: Explained Visually
+  url: https://setosa.io/ev/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 63
+  kind: table-row
+  fields:
+    Projekt: Explained Visually
+    Thema & Besonderheit: Mathematische Grundideen
+    Design / Interaktion: Extrem klare, reduzierte Interaktionen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Sammlung
+- raw_id: interactive-learning-039
+  title: Image Kernels
+  url: https://setosa.io/ev/image-kernels/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 64
+  kind: table-row
+  fields:
+    Projekt: Image Kernels
+    Thema & Besonderheit: Faltung
+    Design / Interaktion: Pixel und Kernel direkt manipulieren; eigenes Bild möglich.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-040
+  title: Hexagonal Grids
+  url: https://www.redblobgames.com/grids/hexagons/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 65
+  kind: table-row
+  fields:
+    Projekt: Hexagonal Grids
+    Thema & Besonderheit: Geometrie/Algorithmen
+    Design / Interaktion: Maus-/Touch-Manipulation von Wegen und Koordinaten.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-041
+  title: Red Blob A*
+  url: https://www.redblobgames.com/pathfinding/a-star/introduction.html
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 66
+  kind: table-row
+  fields:
+    Projekt: Red Blob A*
+    Thema & Besonderheit: A*, Dijkstra
+    Design / Interaktion: Schrittweise, manipulierbare Pathfinding-Erklärung; Red Blob führt A* als zentrales Lernprojekt.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-042
+  title: Red Blob Map Generation
+  url: https://www.redblobgames.com/maps/terrain-from-noise/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 67
+  kind: table-row
+  fields:
+    Projekt: Red Blob Map Generation
+    Thema & Besonderheit: Noise/Terrain
+    Design / Interaktion: Prozedurale Landschaften visuell zerlegt.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-043
+  title: Red Blob Graph Theory
+  url: https://www.redblobgames.com/pathfinding/grids/graphs.html
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 68
+  kind: table-row
+  fields:
+    Projekt: Red Blob Graph Theory
+    Thema & Besonderheit: Graphentheorie
+    Design / Interaktion: Abstrakte Graphen aus Gittern und Karten ableiten.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-044
+  title: Red Blob 2D Visibility
+  url: https://www.redblobgames.com/articles/visibility/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 69
+  kind: table-row
+  fields:
+    Projekt: Red Blob 2D Visibility
+    Thema & Besonderheit: Computational Geometry
+    Design / Interaktion: Sichtfelder und Sweep-Algorithmen visuell.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '8'
+    Typ: Einzelprojekt
+- raw_id: interactive-learning-045
+  title: Visualizing Algorithms
+  url: https://bost.ocks.org/mike/algorithms/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 70
+  kind: table-row
+  fields:
+    Projekt: Visualizing Algorithms
+    Thema & Besonderheit: Algorithmen
+    Design / Interaktion: Sampling, Sortierung und andere Prozesse als Visual Story.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '9'
+    Typ: Visual Essay
+- raw_id: interactive-learning-046
+  title: Fourier Transforms
+  url: https://jezzamon.com/fourier/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 71
+  kind: table-row
+  fields:
+    Projekt: Fourier Transforms
+    Thema & Besonderheit: Fourier
+    Design / Interaktion: Zeichnen, hören, Fourier-Komponenten verändern.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Explorable
+- raw_id: interactive-learning-047
+  title: Circles, Sines, Signals
+  url: https://jackschaedler.github.io/circles-sines-signals/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 72
+  kind: table-row
+  fields:
+    Projekt: Circles, Sines, Signals
+    Thema & Besonderheit: DSP
+    Design / Interaktion: Über 30 interaktive Visualisierungen.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Interactive Textbook
+- raw_id: interactive-learning-048
+  title: Complexity Explorables
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 73
+  kind: table-row
+  fields:
+    Projekt: Complexity Explorables
+    Thema & Besonderheit: Komplexität
+    Design / Interaktion: Breite Galerie aus dynamischen Modellen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Sammlung
+- raw_id: interactive-learning-049
+  title: Stranger Things
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 74
+  kind: table-row
+  fields:
+    Projekt: Stranger Things
+    Thema & Besonderheit: Strange Attractors
+    Design / Interaktion: Chaotische Attraktoren als dynamisches System.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-050
+  title: Double Trouble
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 75
+  kind: table-row
+  fields:
+    Projekt: Double Trouble
+    Thema & Besonderheit: Doppelpendel
+    Design / Interaktion: Chaos sichtbar und manipulierbar.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-051
+  title: Ride my Kuramotocycle!
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 76
+  kind: table-row
+  fields:
+    Projekt: Ride my Kuramotocycle!
+    Thema & Besonderheit: Synchronisation
+    Design / Interaktion: Kuramoto-Modell visuell erleben.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-052
+  title: Hokus Fractus!
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 77
+  kind: table-row
+  fields:
+    Projekt: Hokus Fractus!
+    Thema & Besonderheit: Fraktale
+    Design / Interaktion: Selbstähnlichkeit als interaktives Modell.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-053
+  title: Barista’s Secret
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 78
+  kind: table-row
+  fields:
+    Projekt: Barista’s Secret
+    Thema & Besonderheit: Perkolation
+    Design / Interaktion: Phasenübergänge spielerisch sichtbar.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-054
+  title: Kick it like Chirikov
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 79
+  kind: table-row
+  fields:
+    Projekt: Kick it like Chirikov
+    Thema & Besonderheit: Chaos
+    Design / Interaktion: Standard Map / kicked rotator.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-055
+  title: Spin Wheels
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  line: 80
+  kind: table-row
+  fields:
+    Projekt: Spin Wheels
+    Thema & Besonderheit: Oszillatoren
+    Design / Interaktion: Räumlich gekoppelte Oszillatoren.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-056
+  title: Moon
+  url: https://ciechanow.ski/moon/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 88
+  kind: table-row
+  fields:
+    Projekt: Moon
+    Thema: Mond/Orbit
+    Charakter: 3D-Geometrie, Licht, Mondphasen
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-057
+  title: Airfoil
+  url: https://ciechanow.ski/airfoil/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 89
+  kind: table-row
+  fields:
+    Projekt: Airfoil
+    Thema: Aerodynamik
+    Charakter: Partikelströmungen und Flügelphysik; zahlreiche direkt manipulierbare Simulationen.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-058
+  title: Bicycle
+  url: https://ciechanow.ski/bicycle/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 90
+  kind: table-row
+  fields:
+    Projekt: Bicycle
+    Thema: Fahrradphysik
+    Charakter: Mechanik und Stabilität visuell zerlegt.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-059
+  title: Sound
+  url: https://ciechanow.ski/sound/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 91
+  kind: table-row
+  fields:
+    Projekt: Sound
+    Thema: Akustik
+    Charakter: Schall als räumliches dynamisches Phänomen.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-060
+  title: Mechanical Watch
+  url: https://ciechanow.ski/mechanical-watch/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 92
+  kind: table-row
+  fields:
+    Projekt: Mechanical Watch
+    Thema: Uhrwerk
+    Charakter: Mechanische Komponenten Schritt für Schritt aufgebaut.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-061
+  title: GPS
+  url: https://ciechanow.ski/gps/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 93
+  kind: table-row
+  fields:
+    Projekt: GPS
+    Thema: Navigation
+    Charakter: Satellitengeometrie und Ortung.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-062
+  title: Curves and Surfaces
+  url: https://ciechanow.ski/curves-and-surfaces/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 94
+  kind: table-row
+  fields:
+    Projekt: Curves and Surfaces
+    Thema: Geometrie
+    Charakter: Kurven/Flächen als räumliche Interaktion.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-063
+  title: Naval Architecture
+  url: https://ciechanow.ski/naval-architecture/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 95
+  kind: table-row
+  fields:
+    Projekt: Naval Architecture
+    Thema: Schiffbau
+    Charakter: Stabilität, Auftrieb, Rumpfgeometrie.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-064
+  title: Internal Combustion Engine
+  url: https://ciechanow.ski/internal-combustion-engine/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 96
+  kind: table-row
+  fields:
+    Projekt: Internal Combustion Engine
+    Thema: Motoren
+    Charakter: Bewegte 3D-Modelle bauen einen Verbrennungsmotor aus Grundprinzipien auf.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-065
+  title: Cameras and Lenses
+  url: https://ciechanow.ski/cameras-and-lenses/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 97
+  kind: table-row
+  fields:
+    Projekt: Cameras and Lenses
+    Thema: Optik
+    Charakter: Strahlengänge, Linsen, Kamera.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-066
+  title: Lights and Shadows
+  url: https://ciechanow.ski/lights-and-shadows/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 98
+  kind: table-row
+  fields:
+    Projekt: Lights and Shadows
+    Thema: Licht
+    Charakter: Schatten und Projektion räumlich manipulieren.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-067
+  title: Gears
+  url: https://ciechanow.ski/gears/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 99
+  kind: table-row
+  fields:
+    Projekt: Gears
+    Thema: Mechanik
+    Charakter: Zahnräder geometrisch und kinematisch.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-068
+  title: Tesseract
+  url: https://ciechanow.ski/tesseract/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 100
+  kind: table-row
+  fields:
+    Projekt: Tesseract
+    Thema: 4D-Geometrie
+    Charakter: 4D-Würfel über Projektionen, Schatten und Schnitte erfahrbar.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-069
+  title: Earth and Sun
+  url: https://ciechanow.ski/earth-and-sun/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 101
+  kind: table-row
+  fields:
+    Projekt: Earth and Sun
+    Thema: Astronomie
+    Charakter: Erde, Sonne und Geometrie.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-070
+  title: Color Spaces
+  url: https://ciechanow.ski/color-spaces/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 102
+  kind: table-row
+  fields:
+    Projekt: Color Spaces
+    Thema: Farbtheorie
+    Charakter: Farbräume und Wahrnehmung.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-071
+  title: Brain Flux
+  url: https://gallicchio.github.io/brainflux/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 103
+  kind: table-row
+  fields:
+    Projekt: Brain Flux
+    Thema: Hochschulphysik
+    Charakter: Fourier, QM, Streuung, Wellen, Beugung als echte Simulationen.
+    Ästh.: '8'
+    Int.: '10'
+    MLU: '8'
+    Typ: Sammlung
+- raw_id: interactive-learning-072
+  title: Quantum Country
+  url: https://quantum.country/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 104
+  kind: table-row
+  fields:
+    Projekt: Quantum Country
+    Thema: Quantenmechanik
+    Charakter: Buch + Mnemonic Medium.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '8'
+    Typ: Interactive Book
+- raw_id: interactive-learning-073
+  title: Quantum Computing for the Very Curious
+  url: https://quantum.country/qcvc
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 105
+  kind: table-row
+  fields:
+    Projekt: Quantum Computing for the Very Curious
+    Thema: Quantencomputer
+    Charakter: Langform-Essay + integrierte Spaced-Repetition-Interaktion.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '8'
+    Typ: Interactive Essay
+- raw_id: interactive-learning-074
+  title: 'Earth: A Primer'
+  url: https://earthprimer.com/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 106
+  kind: table-row
+  fields:
+    Projekt: 'Earth: A Primer'
+    Thema: Geowissenschaften
+    Charakter: Vulkanismus, Erosion, Gletscher und Tektonik als Spielsimulation; primär App.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '8'
+    Typ: Interactive Book
+- raw_id: interactive-learning-075
+  title: Why Do Astronauts Float?
+  url: https://explorabl.es/physics/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 107
+  kind: table-row
+  fields:
+    Projekt: Why Do Astronauts Float?
+    Thema: Gravitation
+    Charakter: Gelistet als spielbarer Physik-Explainer.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-076
+  title: Many Tiny Things
+  url: https://explorabl.es/physics/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 108
+  kind: table-row
+  fields:
+    Projekt: Many Tiny Things
+    Thema: Statistische Physik
+    Charakter: Spielerischer Zugang zu Vielteilchensystemen.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-077
+  title: A Slower Speed of Light
+  url: https://gamelab.mit.edu/games/a-slower-speed-of-light/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 109
+  kind: table-row
+  fields:
+    Projekt: A Slower Speed of Light
+    Thema: Relativität
+    Charakter: Spielbare relativistische Wahrnehmung; im Explorable-Verzeichnis gelistet.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '6'
+    Typ: Game
+- raw_id: interactive-learning-078
+  title: IDEA LAB
+  url: https://ideahubdot.github.io/idealabdot.github.io/
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  line: 110
+  kind: table-row
+  fields:
+    Projekt: IDEA LAB
+    Thema: Physiksimulationen
+    Charakter: Wellen, Doppelspalt, Mechanik und Optik in 3D.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '7'
+    Typ: Sammlung
+- raw_id: interactive-learning-079
+  title: Attention & Augmented RNNs
+  url: https://distill.pub/2016/augmented-rnns/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 118
+  kind: table-row
+  fields:
+    Projekt: Attention & Augmented RNNs
+    Thema: Attention
+    Charakter: Frühes visuelles Neural-Network-Essay.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '10'
+    Typ: Paper/Essay
+- raw_id: interactive-learning-080
+  title: How to Use t‑SNE Effectively
+  url: https://distill.pub/2016/misread-tsne/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 119
+  kind: table-row
+  fields:
+    Projekt: How to Use t‑SNE Effectively
+    Thema: Dimensionality Reduction
+    Charakter: Parameter und Datensätze interaktiv vergleichen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-081
+  title: Handwriting with a Neural Network
+  url: https://distill.pub/2016/handwriting/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 120
+  kind: table-row
+  fields:
+    Projekt: Handwriting with a Neural Network
+    Thema: RNN
+    Charakter: Generatives Handschriftmodell mit interaktiven Visualisierungen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-082
+  title: Why Momentum Really Works
+  url: https://distill.pub/2017/momentum/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 121
+  kind: table-row
+  fields:
+    Projekt: Why Momentum Really Works
+    Thema: Optimierung
+    Charakter: Geometrische Intuition für Momentum.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-083
+  title: Sequence Modeling with CTC
+  url: https://distill.pub/2017/ctc/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 122
+  kind: table-row
+  fields:
+    Projekt: Sequence Modeling with CTC
+    Thema: Deep Learning
+    Charakter: CTC visuell erklärt.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-084
+  title: Feature Visualization
+  url: https://distill.pub/2017/feature-visualization/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 123
+  kind: table-row
+  fields:
+    Projekt: Feature Visualization
+    Thema: Interpretierbarkeit
+    Charakter: Neural Features werden bildlich sichtbar.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-085
+  title: Building Blocks of Interpretability
+  url: https://distill.pub/2018/building-blocks/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 124
+  kind: table-row
+  fields:
+    Projekt: Building Blocks of Interpretability
+    Thema: Interpretierbarkeit
+    Charakter: Mehrere visuelle Werkzeuge kombiniert.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-086
+  title: Differentiable Image Parameterizations
+  url: https://distill.pub/2018/differentiable-parameterizations/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 125
+  kind: table-row
+  fields:
+    Projekt: Differentiable Image Parameterizations
+    Thema: Deep Learning
+    Charakter: Visuelle Optimierungsräume.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '9'
+    Typ: Paper
+- raw_id: interactive-learning-087
+  title: Activation Atlas
+  url: https://distill.pub/2019/activation-atlas/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 126
+  kind: table-row
+  fields:
+    Projekt: Activation Atlas
+    Thema: CNNs
+    Charakter: Feature-Raum als navigierbare Atlaslandschaft.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-088
+  title: A Visual Exploration of Gaussian Processes
+  url: https://distill.pub/2019/visual-exploration-gaussian-processes/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 127
+  kind: table-row
+  fields:
+    Projekt: A Visual Exploration of Gaussian Processes
+    Thema: Gaussian Processes
+    Charakter: Probabilistische Modelle visuell erkunden.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-089
+  title: Growing Neural Cellular Automata
+  url: https://distill.pub/2020/growing-ca/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 128
+  kind: table-row
+  fields:
+    Projekt: Growing Neural Cellular Automata
+    Thema: Cellular Automata
+    Charakter: Selbstorganisierende künstliche Zellen; stark visuell.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '9'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-090
+  title: Neural Networks with the Grand Tour
+  url: https://distill.pub/2020/grand-tour/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 129
+  kind: table-row
+  fields:
+    Projekt: Neural Networks with the Grand Tour
+    Thema: Hochdimensionale Netze
+    Charakter: Projektionen neuronaler Repräsentationen.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-091
+  title: Exploring Bayesian Optimization
+  url: https://distill.pub/2020/bayesian-optimization/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 130
+  kind: table-row
+  fields:
+    Projekt: Exploring Bayesian Optimization
+    Thema: Optimierung
+    Charakter: Suchprozess visuell nachvollziehbar.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable Paper
+- raw_id: interactive-learning-092
+  title: Communicating with Interactive Articles
+  url: https://distill.pub/2020/communicating-with-interactive-articles/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 131
+  kind: table-row
+  fields:
+    Projekt: Communicating with Interactive Articles
+    Thema: Metadidaktik
+    Charakter: Analyse genau dieser Medienform.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '10'
+    Typ: Research Essay
+- raw_id: interactive-learning-093
+  title: Gentle Introduction to GNNs
+  url: https://distill.pub/2021/gnn-intro/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 132
+  kind: table-row
+  fields:
+    Projekt: Gentle Introduction to GNNs
+    Thema: Graph Neural Networks
+    Charakter: GNNs visuell und konzeptionell.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-094
+  title: Transformer Explainer
+  url: https://poloclub.github.io/transformer-explainer/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 133
+  kind: table-row
+  fields:
+    Projekt: Transformer Explainer
+    Thema: LLMs
+    Charakter: Transformer direkt untersuchen.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explainer
+- raw_id: interactive-learning-095
+  title: Diffusion Explainer
+  url: https://poloclub.github.io/diffusion-explainer/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 134
+  kind: table-row
+  fields:
+    Projekt: Diffusion Explainer
+    Thema: Diffusion
+    Charakter: Prompt und Hyperparameter verändern.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explainer
+- raw_id: interactive-learning-096
+  title: GAN Lab
+  url: https://poloclub.github.io/ganlab/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 135
+  kind: table-row
+  fields:
+    Projekt: GAN Lab
+    Thema: GANs
+    Charakter: GANs im Browser trainieren.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Lab
+- raw_id: interactive-learning-097
+  title: CNN Explainer
+  url: https://poloclub.github.io/cnn-explainer/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 136
+  kind: table-row
+  fields:
+    Projekt: CNN Explainer
+    Thema: CNNs
+    Charakter: Für Nicht-Experten entworfener CNN-Lernexplainer.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '10'
+    Typ: Explainer
+- raw_id: interactive-learning-098
+  title: Dodrio
+  url: https://poloclub.github.io/dodrio/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 137
+  kind: table-row
+  fields:
+    Projekt: Dodrio
+    Thema: Transformer Attention
+    Charakter: Interaktive Transformer-Analyse.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '8'
+    Typ: Research Tool
+- raw_id: interactive-learning-099
+  title: WebSHAP
+  url: https://poloclub.github.io/webshap/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 138
+  kind: table-row
+  fields:
+    Projekt: WebSHAP
+    Thema: Explainable AI
+    Charakter: SHAP-Erklärungen direkt im Browser.
+    Ästh.: '8'
+    Int.: '9'
+    MLU: '8'
+    Typ: Tool
+- raw_id: interactive-learning-100
+  title: PAIR AI Explorables
+  url: https://pair.withgoogle.com/explorables/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 139
+  kind: table-row
+  fields:
+    Projekt: PAIR AI Explorables
+    Thema: KI
+    Charakter: Fortlaufende Reihe hochwertiger ML-Explorables.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Sammlung
+- raw_id: interactive-learning-101
+  title: Mapping LLMs with Sparse Autoencoders
+  url: https://pair.withgoogle.com/explorables/sae/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 140
+  kind: table-row
+  fields:
+    Projekt: Mapping LLMs with Sparse Autoencoders
+    Thema: LLM-Interpretierbarkeit
+    Charakter: Features auswählen und Modellverhalten steuern.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable
+- raw_id: interactive-learning-102
+  title: Patchscopes
+  url: https://pair.withgoogle.com/explorables/patchscopes
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 141
+  kind: table-row
+  fields:
+    Projekt: Patchscopes
+    Thema: LLM-Interpretierbarkeit
+    Charakter: Verborgene Repräsentationen visuell erkunden.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable
+- raw_id: interactive-learning-103
+  title: Model Uncertainty / OOD
+  url: https://pair.withgoogle.com/explorables/uncertainty-ood/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 142
+  kind: table-row
+  fields:
+    Projekt: Model Uncertainty / OOD
+    Thema: Unsicherheit
+    Charakter: Modellkonfidenz und Ensembles visuell erklärt.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '10'
+    Typ: Explorable
+- raw_id: interactive-learning-104
+  title: TensorFlow Playground
+  url: https://playground.tensorflow.org/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 143
+  kind: table-row
+  fields:
+    Projekt: TensorFlow Playground
+    Thema: Neural Networks
+    Charakter: Netzwerkarchitektur und Training live verändern; von PAIR als visuelles ML-Spielzeug geführt.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '9'
+    Typ: Playground
+- raw_id: interactive-learning-105
+  title: Embedding Projector
+  url: https://projector.tensorflow.org/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 144
+  kind: table-row
+  fields:
+    Projekt: Embedding Projector
+    Thema: Embeddings
+    Charakter: PCA/t‑SNE/UMAP in 2D/3D explorieren.
+    Ästh.: '8'
+    Int.: '10'
+    MLU: '8'
+    Typ: Tool
+- raw_id: interactive-learning-106
+  title: R2D3 – Decision Trees
+  url: https://r2d3.us/visual-intro-to-machine-learning-part-1/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 145
+  kind: table-row
+  fields:
+    Projekt: R2D3 – Decision Trees
+    Thema: Decision Trees
+    Charakter: Exzellentes Scrollytelling.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-107
+  title: R2D3 – Bias/Variance
+  url: https://r2d3.us/visual-intro-to-machine-learning-part-2/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 146
+  kind: table-row
+  fields:
+    Projekt: R2D3 – Bias/Variance
+    Thema: Bias-Variance
+    Charakter: Modellkomplexität visuell aufgebaut.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-108
+  title: MLU Logistic Regression
+  url: https://mlu-explain.github.io/logistic-regression/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 147
+  kind: table-row
+  fields:
+    Projekt: MLU Logistic Regression
+    Thema: Klassifikation
+    Charakter: Referenzstil der Sammlung.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-109
+  title: MLU Linear Regression
+  url: https://mlu-explain.github.io/linear-regression/
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  line: 148
+  kind: table-row
+  fields:
+    Projekt: MLU Linear Regression
+    Thema: Regression
+    Charakter: Interaktive Regression.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '10'
+    Typ: Visual Essay
+- raw_id: interactive-learning-110
+  title: The Evolution of Trust
+  url: https://ncase.me/trust/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 156
+  kind: table-row
+  fields:
+    Projekt: The Evolution of Trust
+    Thema: Spieltheorie/Gesellschaft
+    Charakter: Kooperation durch spielbare Situationen lernen.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable Game
+- raw_id: interactive-learning-111
+  title: Wisdom and/or Madness of Crowds
+  url: https://ncase.me/crowds/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 157
+  kind: table-row
+  fields:
+    Projekt: Wisdom and/or Madness of Crowds
+    Thema: Netzwerke
+    Charakter: Interaktive Einführung in soziale Netzwerke.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-112
+  title: Fireflies
+  url: https://ncase.me/fireflies/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 158
+  kind: table-row
+  fields:
+    Projekt: Fireflies
+    Thema: Synchronisation/Biologie
+    Charakter: Ruhige Simulation emergenter Synchronisation.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '7'
+    Typ: Simulation
+- raw_id: interactive-learning-113
+  title: Attractor Landscapes
+  url: https://ncase.me/attractors/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 159
+  kind: table-row
+  fields:
+    Projekt: Attractor Landscapes
+    Thema: Dynamische Systeme
+    Charakter: Spielerische Attraktor-Intuition.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-114
+  title: LOOPY
+  url: https://ncase.me/loopy/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 160
+  kind: table-row
+  fields:
+    Projekt: LOOPY
+    Thema: Systemdenken
+    Charakter: Eigene Feedback-Systeme zeichnen und simulieren.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '7'
+    Typ: Tool
+- raw_id: interactive-learning-115
+  title: Adventures with Anxiety
+  url: https://ncase.me/anxiety/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 161
+  kind: table-row
+  fields:
+    Projekt: Adventures with Anxiety
+    Thema: Psychologie
+    Charakter: Interaktive Geschichte, in der man selbst die Angst spielt.
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '6'
+    Typ: Interactive Story
+- raw_id: interactive-learning-116
+  title: How to Remember Anything Forever-ish
+  url: https://ncase.me/remember/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 162
+  kind: table-row
+  fields:
+    Projekt: How to Remember Anything Forever-ish
+    Thema: Gedächtnis
+    Charakter: Interaktiver Comic über Lernwissenschaft.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '7'
+    Typ: Interactive Comic
+- raw_id: interactive-learning-117
+  title: I herd you!
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 163
+  kind: table-row
+  fields:
+    Projekt: I herd you!
+    Thema: Epidemiologie
+    Charakter: Herd Immunity als dynamisches Modell.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-118
+  title: Epidemonic
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 164
+  kind: table-row
+  fields:
+    Projekt: Epidemonic
+    Thema: Epidemiologie
+    Charakter: SIRS-Modell interaktiv.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-119
+  title: Horde of the Flies
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 165
+  kind: table-row
+  fields:
+    Projekt: Horde of the Flies
+    Thema: Schwarmverhalten
+    Charakter: Vicsek-Modell für kollektive Bewegung.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-120
+  title: Maggots in the Wiggle Room
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 166
+  kind: table-row
+  fields:
+    Projekt: Maggots in the Wiggle Room
+    Thema: Evolution
+    Charakter: Evolutionsdynamik.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-121
+  title: A Patchwork Darwinge
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 167
+  kind: table-row
+  fields:
+    Projekt: A Patchwork Darwinge
+    Thema: Evolution
+    Charakter: Variation und Selektion.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-122
+  title: Lotka Martini
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 168
+  kind: table-row
+  fields:
+    Projekt: Lotka Martini
+    Thema: Ökologie
+    Charakter: Räuber-Beute-Dynamik.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-123
+  title: Scott’s World
+  url: https://complexity-explorables.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 169
+  kind: table-row
+  fields:
+    Projekt: Scott’s World
+    Thema: Mikrobiologie
+    Charakter: Mikrobielle Wachstumsmuster.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-124
+  title: Yo, Kohonen!
+  url: https://www.complexity-explorables.org/explorables/yo-kohonen/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 170
+  kind: table-row
+  fields:
+    Projekt: Yo, Kohonen!
+    Thema: Neurowissenschaft/ML
+    Charakter: Selbstorganisierende Kohonen-Karte, deren Stimulusraum und Gitter manipuliert werden.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-125
+  title: Berlin 8:00 a.m.
+  url: https://www.complexity-explorables.org/explorables/berlin-8-am/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 171
+  kind: table-row
+  fields:
+    Projekt: Berlin 8:00 a.m.
+    Thema: Verkehr
+    Charakter: Mehrspuriger Verkehr mit einstellbarer Beschleunigung, Trägheit und Geschwindigkeitsvarianz.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '8'
+    Typ: Explorable
+- raw_id: interactive-learning-126
+  title: Glocal Climate Change
+  url: https://www.sheldon.studio/works/glocal-climate-change/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 172
+  kind: table-row
+  fields:
+    Projekt: Glocal Climate Change
+    Thema: Klima
+    Charakter: Klimawandel in über 100.000 europäischen Gemeinden als personalisiertes Scrollytelling.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '8'
+    Typ: Scrollytelling
+- raw_id: interactive-learning-127
+  title: Flooding in America
+  url: https://pudding.cool/projects/flooding/visuals/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 173
+  kind: table-row
+  fields:
+    Projekt: Flooding in America
+    Thema: Klima
+    Charakter: Interaktive Karte zu heutigem und künftigem Flutrisiko.
+    Ästh.: '9'
+    Int.: '9'
+    MLU: '7'
+    Typ: Data Story
+- raw_id: interactive-learning-128
+  title: The Pudding – Cultural Borders of Songs
+  url: https://pudding.cool/2018/01/music-map/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 174
+  kind: table-row
+  fields:
+    Projekt: The Pudding – Cultural Borders of Songs
+    Thema: Musik/Geografie
+    Charakter: '#1-Songs in rund 3.000 Orten auf einer interaktiven Karte.'
+    Ästh.: '10'
+    Int.: '9'
+    MLU: '6'
+    Typ: Visual Essay
+- raw_id: interactive-learning-129
+  title: How Music Evolved
+  url: https://pudding.cool/2017/03/music-history/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 175
+  kind: table-row
+  fields:
+    Projekt: How Music Evolved
+    Thema: Musikgeschichte
+    Charakter: Billboard-Daten 1958–2016 als visuelle Zeitreise.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '6'
+    Typ: Visual Essay
+- raw_id: interactive-learning-130
+  title: Generational Gaps in Music
+  url: https://pudding.cool/2020/04/music-challenge/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 176
+  kind: table-row
+  fields:
+    Projekt: Generational Gaps in Music
+    Thema: Kultur/Musik
+    Charakter: Eigene Musikerkennung fließt in die Datengeschichte ein.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '6'
+    Typ: Interactive Essay
+- raw_id: interactive-learning-131
+  title: Who’s in Your Wallet?
+  url: https://pudding.cool/2022/04/banknotes/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 177
+  kind: table-row
+  fields:
+    Projekt: Who’s in Your Wallet?
+    Thema: Geschichte/Kultur
+    Charakter: Figuren auf Banknoten weltweit als visuelle Kulturgeschichte.
+    Ästh.: '10'
+    Int.: '8'
+    MLU: '6'
+    Typ: Visual Essay
+- raw_id: interactive-learning-132
+  title: How Bad Is Your Streaming Music?
+  url: https://pudding.cool/2021/10/judge-my-music/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 178
+  kind: table-row
+  fields:
+    Projekt: How Bad Is Your Streaming Music?
+    Thema: Musik/Kultur
+    Charakter: Personalisierte, satirische Dateninteraktion.
+    Ästh.: '10'
+    Int.: '10'
+    MLU: '5'
+    Typ: Interactive Story
+- raw_id: interactive-learning-133
+  title: The World Through the Eyes of the US
+  url: https://pudding.cool/2018/12/countries/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 179
+  kind: table-row
+  fields:
+    Projekt: The World Through the Eyes of the US
+    Thema: Geografie/Kultur
+    Charakter: Länderwahrnehmung als datengetriebene visuelle Story.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '6'
+    Typ: Visual Essay
+- raw_id: interactive-learning-134
+  title: Erask
+  url: https://erask.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 180
+  kind: table-row
+  fields:
+    Projekt: Erask
+    Thema: Geschichte/Geografie
+    Charakter: Historische Ereignisse auf einem 3D-Globus mit Relief, Zeitbezug und Ortsauswahl.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '6'
+    Typ: Interactive Atlas
+- raw_id: interactive-learning-135
+  title: Epoch Lives
+  url: https://pastlives.site/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 181
+  kind: table-row
+  fields:
+    Projekt: Epoch Lives
+    Thema: Geschichte
+    Charakter: Immersive historische Scrollytelling-Essays mit Karten, Daten und Primärquellen.
+    Ästh.: '9'
+    Int.: '8'
+    MLU: '7'
+    Typ: Visual-Essay-Sammlung
+- raw_id: interactive-learning-136
+  title: LightNote
+  url: https://lightnotesystem.com/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 182
+  kind: table-row
+  fields:
+    Projekt: LightNote
+    Thema: Musiktheorie
+    Charakter: Skalen, Akkorde, Intervalle, Cymatics und Circle of Fifths als visuelles System.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '7'
+    Typ: Interactive Learning
+- raw_id: interactive-learning-137
+  title: Play Music Theory
+  url: https://playmusictheory.org/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 183
+  kind: table-row
+  fields:
+    Projekt: Play Music Theory
+    Thema: Musik
+    Charakter: Zeichnen wird zu Klang; Höhe = Tonhöhe, horizontale Position = Zeit.
+    Ästh.: '9'
+    Int.: '10'
+    MLU: '6'
+    Typ: Playground
+- raw_id: interactive-learning-138
+  title: Moral Machine
+  url: https://www.moralmachine.net/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 184
+  kind: table-row
+  fields:
+    Projekt: Moral Machine
+    Thema: Ethik
+    Charakter: Interaktive Trolley-Problem-Varianten; im Explorable-Index als Philosophieprojekt geführt.
+    Ästh.: '8'
+    Int.: '10'
+    MLU: '5'
+    Typ: Experiment
+- raw_id: interactive-learning-139
+  title: Philosophy Experiments
+  url: https://www.philosophyexperiments.com/
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  line: 185
+  kind: table-row
+  fields:
+    Projekt: Philosophy Experiments
+    Thema: Philosophie
+    Charakter: Klassische Gedankenexperimente als Interaktionen.
+    Ästh.: '6'
+    Int.: '8'
+    MLU: '5'
+    Typ: Sammlung
+- raw_id: interactive-learning-140
+  title: Portfolio/Archiv
+  url: https://ciechanow.ski/archives/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 201
+  kind: inline-link
+  context: '1. Bartosz Ciechanowski – Portfolio/Archiv: physikalische und technische Essays mit außergewöhnlich
+    ausgefeilten Simulationen.'
+- raw_id: interactive-learning-141
+  title: Projects
+  url: https://ncase.me/projects/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 202
+  kind: inline-link
+  context: '2. Nicky Case – Projects: Spieltheorie, Psychologie, Netzwerke und Systemdenken; außerdem Initiator
+    von Explorable Explanations.'
+- raw_id: interactive-learning-142
+  title: Archiv
+  url: https://bost.ocks.org/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 203
+  kind: inline-link
+  context: '3. Mike Bostock – Archiv und Observable: D3, Algorithms, Data Visualization.'
+- raw_id: interactive-learning-143
+  title: Portfolio
+  url: https://jackschaedler.github.io/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 204
+  kind: inline-link
+  context: '4. Jack Schaedler – Portfolio: DSP, Signalverarbeitung, interaktive Bildungsmedien.'
+- raw_id: interactive-learning-144
+  title: Setosa
+  url: https://setosa.io/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 205
+  kind: inline-link
+  context: '5. Victor Powell & Lewis Lehe / Setosa – Setosa: minimalistische mathematische Erklärungen.'
+- raw_id: interactive-learning-145
+  title: Georgia Tech
+  url: https://poloclub.github.io/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 207
+  kind: inline-link
+  context: '7. Duen Horng „Polo“ Chau und Polo Club – Georgia Tech: Transformer, Diffusion, CNN und GAN Explainers.'
+- raw_id: interactive-learning-146
+  title: Explorables
+  url: https://pair.withgoogle.com/explorables/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 208
+  kind: inline-link
+  context: '8. Google PAIR – Explorables: Human-Centered AI und Interpretierbarkeit.'
+- raw_id: interactive-learning-147
+  title: Red Blob
+  url: https://www.redblobgames.com/
+  section: Die wichtigsten Creators und Designsprachen
+  line: 212
+  kind: inline-link
+  context: '12. Amit Patel / Red Blob Games – Red Blob: Algorithmen und Geometrie; Patel beschreibt selbst, dass
+    er seit 2004 mit interaktiven Erklärungen experimentiert.'
+- raw_id: interactive-learning-148
+  title: Explorable Explanations
+  url: https://explorabl.es/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-149
+  title: Observable Collections
+  url: https://observablehq.com/explore/collections
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-150
+  title: Distill Archive
+  url: https://distill.pub/archive/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-151
+  title: The Pudding
+  url: https://pudding.cool/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-152
+  title: Red Blob Games
+  url: https://www.redblobgames.com/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-153
+  title: Complexity Explorables
+  url: https://complexity-explorables.org/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-154
+  title: PAIR Explorables
+  url: https://pair.withgoogle.com/explorables/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+- raw_id: interactive-learning-155
+  title: Polo Club
+  url: https://poloclub.github.io/
+  section: Inspirationsquellen und Grenzen der Recherche
+  line: 226
+  kind: inline-link
+  context: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und

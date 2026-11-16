@@ -1,0 +1,66 @@
+id: ref-red-blob-games
+title: Red Blob Games
+url: https://www.redblobgames.com/
+creator: Amit Patel
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- playground
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- grids
+- maps and graphs drawn as clean diagrams
+interaction_patterns:
+- drag start/goal points
+- edit walls and terrain
+- step through algorithms
+description: Interactive explanations refined since 2004 on A*, hex grids, noise, graph theory, visibility and procedural
+  geometry.
+why_it_works: Each article lets the reader move the inputs of the algorithm and see every intermediate state.
+best_suited_for:
+- developer education
+- game/geometry topics
+- algorithm documentation
+limitations: []
+library_notes: []
+patterns:
+- pat-single-mechanism-explorable
+- pat-sandbox-playground
+keywords:
+- pathfinding
+- a-star
+- hexagons
+- grids
+- geometry
+- games
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-017
+  section: Top-Auswahl
+  excerpt: 'Projekt: Red Blob Games | Warum es herausragt: Jahrzehntelang verfeinerte interaktive Erklärungen zu
+    A*, Hex-Grids, Noise, Graphen, Sichtbarkeit und prozeduraler Geometrie. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.:
+    10 | MLU: 9'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-147
+  section: Die wichtigsten Creators und Designsprachen
+  excerpt: '12. Amit Patel / Red Blob Games – Red Blob: Algorithmen und Geometrie; Patel beschreibt selbst, dass
+    er seit 2004 mit interaktiven Erklärungen experimentiert.'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-152
+  section: Inspirationsquellen und Grenzen der Recherche
+  excerpt: Die ergiebigsten Orte für weitere Entdeckungen sind Explorable Explanations, dessen Verzeichnis Mathematik,
+    Physik, Biologie, Chemie, Ökonomie, Journalismus, Philosophie, Psychologie und Programmierung umfasst; Observable
+    Collections, insbesondere *Explorables*, *Visualization*, *Algorithms*, *Generative Art*, *WebGL* und die UW
+    Visualization Curriculum Collection; Distill Archive; The Pudding und
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

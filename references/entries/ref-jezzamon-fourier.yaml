@@ -1,0 +1,55 @@
+id: ref-jezzamon-fourier
+title: An Interactive Introduction to Fourier Transforms
+url: https://jezzamon.com/fourier/
+creator: Jez Swanson
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- math-education
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- hand-drawn input
+- rotating epicycles
+interaction_patterns:
+- draw
+- listen
+- decompose and recompose
+description: Drawing, listening, decomposing and recomposing make the Fourier transform immediately experiential.
+why_it_works: The learner's own drawing becomes the data, which creates ownership and curiosity.
+best_suited_for:
+- math/signal education
+- playful onboarding
+limitations: []
+library_notes: []
+patterns:
+- pat-single-mechanism-explorable
+- pat-personalised-data-experience
+- pat-multimodal-representation
+keywords:
+- fourier
+- drawing
+- sound
+- playful
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-014
+  section: Top-Auswahl
+  excerpt: 'Projekt: An Interactive Introduction to Fourier Transforms | Warum es herausragt: Zeichnen, hören, zerlegen,
+    wieder zusammensetzen: Fourier wird unmittelbar erfahrbar. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.: 10 | MLU:
+    9'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-046
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Fourier Transforms | Thema & Besonderheit: Fourier | Design / Interaktion: Zeichnen, hören,
+    Fourier-Komponenten verändern. | Ästh.: 9 | Int.: 10 | MLU: 9 | Typ: Explorable'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

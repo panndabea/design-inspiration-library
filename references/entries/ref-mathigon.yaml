@@ -1,0 +1,57 @@
+id: ref-mathigon
+title: Mathigon
+url: https://mathigon.org/
+creator: Mathigon team
+source_reports:
+- interactive-learning
+categories:
+- interactive-course
+- math-education
+- playground
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- illustrated courses
+- virtual manipulatives (Polypad)
+interaction_patterns:
+- conversational step-by-step course flow
+- manipulatives
+- mathematical games
+description: Interactive courses with simulations, manipulatives, animations and mathematical games; particularly
+  strong on fractals, graphs and geometry.
+why_it_works: The course reveals content progressively as the learner acts.
+best_suited_for:
+- K-12 and adult education
+- guided courses
+limitations: []
+library_notes: []
+patterns:
+- pat-progressive-complexity-ladder
+- pat-sandbox-playground
+keywords:
+- math
+- course
+- fractals
+- manipulatives
+- polypad
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-020
+  section: Top-Auswahl
+  excerpt: 'Projekt: Mathigon | Warum es herausragt: Interaktive Kurse mit Simulationen, Manipulatives, Animationen
+    und mathematischen Spielen; besonders stark bei Fraktalen, Graphen und Geometrie. | Ästh.: 10 | Int.: 10 | Did.:
+    9 | Orig.: 9 | MLU: 8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-033
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Mathigon | Thema & Besonderheit: Mathematik | Design / Interaktion: Hochpolierte interaktive
+    Lernumgebung. | Ästh.: 10 | Int.: 10 | MLU: 8 | Typ: Plattform'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

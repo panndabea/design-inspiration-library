@@ -1,0 +1,57 @@
+id: ref-visualizing-algorithms
+title: Visualizing Algorithms
+url: https://bost.ocks.org/mike/algorithms/
+creator: Mike Bostock
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- visual-essay
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- process animations of sampling
+- shuffling
+- sorting and maze generation
+interaction_patterns:
+- replayable animations
+- compare algorithms side by side
+description: Influential essay showing how visualisation can turn abstract processes directly into tools for thought.
+why_it_works: Animation is used exactly where the idea is temporal (a process), following the "visualisation as
+  part of thinking" principle.
+best_suited_for:
+- process explainers
+- developer education
+- comparing approaches
+limitations: []
+library_notes: []
+patterns:
+- pat-comparative-split-view
+- pat-single-mechanism-explorable
+keywords:
+- algorithms
+- d3
+- process
+- animation
+- sorting
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-016
+  section: Top-Auswahl
+  excerpt: 'Projekt: Visualizing Algorithms | Warum es herausragt: Mike Bostocks einflussreicher Essay zeigt, wie
+    Visualisierung abstrakte Prozesse direkt zu Denkwerkzeugen machen kann. | Ästh.: 10 | Int.: 8 | Did.: 10 | Orig.:
+    10 | MLU: 9'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-045
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Visualizing Algorithms | Thema & Besonderheit: Algorithmen | Design / Interaktion: Sampling,
+    Sortierung und andere Prozesse als Visual Story. | Ästh.: 10 | Int.: 8 | MLU: 9 | Typ: Visual Essay'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

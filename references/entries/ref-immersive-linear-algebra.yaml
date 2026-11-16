@@ -1,0 +1,51 @@
+id: ref-immersive-linear-algebra
+title: Immersive Linear Algebra
+url: https://immersivemath.com/ila/
+creator: J. Ström, K. Åström, T. Akenine-Möller
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- math-education
+design_language: technical-spatial
+availability: live
+visual_characteristics:
+- full textbook built around interactive 3D figures
+interaction_patterns:
+- rotate and drag vectors in figures
+description: A complete textbook that builds its argument around interactive figures.
+why_it_works: Interactive figures are the backbone of the book rather than an add-on.
+best_suited_for:
+- long-form courses
+- textbooks
+- reference documentation
+limitations: []
+library_notes: []
+patterns:
+- pat-inline-reactive-figure
+- pat-progressive-complexity-ladder
+keywords:
+- linear algebra
+- textbook
+- 3d
+- vectors
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-013
+  section: Top-Auswahl
+  excerpt: 'Projekt: Immersive Linear Algebra | Warum es herausragt: Ein vollständiges Lehrbuch, das seine Argumentation
+    um interaktive Figuren herum aufbaut. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.: 10 | MLU: 9'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-031
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Immersive Linear Algebra | Thema & Besonderheit: Lineare Algebra | Design / Interaktion: Komplettes
+    Lehrbuch mit interaktiven Figuren. | Ästh.: 9 | Int.: 10 | MLU: 9 | Typ: Plattform'
+verification:
+  status: url-unreachable-at-check
+  http_code: null
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,47 @@
+id: ref-connected-china
+title: Connected China
+url: https://china.fathom.info/
+creator: Fathom / Reuters
+source_reports:
+- beyond-dashboards
+categories:
+- relationship-visualisation
+- data-journalism
+design_language: data-editorial
+availability: archived
+visual_characteristics:
+- network of institutions and people
+interaction_patterns:
+- navigate entities and their relationships over time
+description: Power and relationship network of Chinese institutions and people (2013).
+why_it_works: Relationships become the primary information object; positive pattern for "Relationships are first-class".
+best_suited_for:
+- org charts
+- stakeholder and dependency graphs
+limitations:
+- Report caveat – very large graphs risk visual overload ("hairball").
+library_notes: []
+patterns:
+- pat-relationship-graph
+keywords:
+- network
+- power
+- relationships
+- entities
+- stakeholders
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-024
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Connected China — Fathom / Reuters, 2013 | Informations- und Interaktionsprinzip:
+    Macht- und Beziehungsnetz chinesischer Institutionen und Personen | Beyond-Dashboard-Wert, Evidenz/Limitation
+    und Enterprise-Transfer: Beziehungen werden primäres Informationsobjekt. Transfer: Org-, Stakeholder- und Abhängigkeitsgraphen.
+    | Innovation / Transfer: 9 / 9'
+verification:
+  status: url-unreachable-at-check
+  http_code: null
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,47 @@
+id: ref-pudding-data-clocks
+title: Data Clocks
+url: https://pudding.cool/projects/clocks/
+creator: The Pudding
+source_reports:
+- beyond-dashboards
+categories:
+- generative-visualisation
+- information-design
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- same input rendered by many different visual rules
+interaction_patterns:
+- compare generative variants of the same data
+description: Generative visualisation of the same input through different visual rules.
+why_it_works: Demonstrates that a dataset does not have "the" correct chart; Report 19 transfers it to several automatically
+  generated perspectives on the same situation.
+best_suited_for:
+- exploratory tools
+- design systems for charts
+- AI-generated views
+limitations: []
+library_notes: []
+patterns:
+- pat-multiple-perspectives
+keywords:
+- generative
+- perspectives
+- same data
+- clocks
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-008
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Data Clocks — The Pudding | Informations- und Interaktionsprinzip: Generative
+    Visualisierung desselben Inputs durch verschiedene visuelle Regeln | Beyond-Dashboard-Wert, Evidenz/Limitation
+    und Enterprise-Transfer: Gute Referenz für die Idee, dass ein Datensatz nicht „den“ richtigen Chart besitzt.
+    Transfer: mehrere automatisch erzeugte Perspektiven auf dieselbe Situation. | Innovation / Transfer: 8 / 7'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,46 @@
+id: ref-segel-heer-narrative-visualization
+title: Narrative Visualization (Segel & Heer, 2010)
+url: https://vis.stanford.edu/papers/narrative.html
+creator: Edward Segel & Jeffrey Heer
+source_reports:
+- beyond-dashboards
+categories:
+- research-publication
+- meta-design
+design_language: research-native
+availability: live
+visual_characteristics: []
+interaction_patterns:
+- author-driven narrative ↔ reader-driven exploration
+description: Foundational paper on balancing author-driven narrative and reader-driven exploration.
+why_it_works: Basis for the right ratio of guidance and freedom in data-driven interfaces; positive pattern for
+  "Narrate, then let me explore".
+best_suited_for:
+- deciding the narrative/exploration balance of any information product
+limitations: []
+library_notes:
+- Paper, not a visual reference.
+patterns:
+- pat-narrate-then-explore
+keywords:
+- narrative
+- martini glass
+- storytelling
+- exploration
+- research
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-055
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Narrative Visualization — Segel & Heer, 2010 | Informations- und Interaktionsprinzip:
+    Author-driven Narrative ↔ Reader-driven Exploration | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Grundlagenarbeit für das richtige Verhältnis zwischen Führung und Freiheit in datengetriebenen Interfaces. |
+    Innovation / Transfer: 10 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

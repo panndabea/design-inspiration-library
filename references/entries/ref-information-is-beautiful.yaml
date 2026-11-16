@@ -1,0 +1,50 @@
+id: ref-information-is-beautiful
+title: Information is Beautiful
+url: https://informationisbeautiful.net/
+creator: David McCandless
+source_reports:
+- beyond-dashboards
+categories:
+- information-design
+- data-journalism
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- concept-driven visual condensation
+- strong visual grammar
+- memorable form
+interaction_patterns:
+- mostly curated static or lightly interactive graphics
+description: Concept-driven visual condensation of data, knowledge and arguments (active since 2009).
+why_it_works: Turns data into visual statements instead of KPI collections; strength is context and memorability.
+best_suited_for:
+- executive explainer graphics
+- insight cards
+- infographics
+limitations:
+- Report caveat – many works are curated rather than exploratory.
+library_notes: []
+patterns:
+- pat-narrative-briefing
+keywords:
+- infographic
+- visual statement
+- memorable
+- condensation
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-001
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Information is Beautiful — David McCandless, seit 2009, aktiv 2026 | Informations-
+    und Interaktionsprinzip: Konzeptgetriebene visuelle Verdichtung von Daten, Wissen und Argumenten | Beyond-Dashboard-Wert,
+    Evidenz/Limitation und Enterprise-Transfer: Macht aus Daten visuelle Aussagen statt KPI-Sammlungen. Stärke:
+    Kontext und Memorierbarkeit; Schwäche: viele Arbeiten sind kuratiert statt explorativ. Transfer: executive Erklärbilder
+    und Insight Cards. | Innovation / Transfe'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,48 @@
+id: ref-deimos
+title: Deimos
+url: https://vis.mit.edu/pubs/deimos/
+creator: MIT / Monash / Inria (CHI 2023)
+source_reports:
+- beyond-dashboards
+categories:
+- spatial-analytics
+- research-prototype
+design_language: technical-spatial
+availability: research-prototype
+visual_characteristics:
+- immersive visualisation with dynamic morphs
+interaction_patterns:
+- embodied interaction in immersive environments
+description: Embodied immersive visualisation with dynamic morphs.
+why_it_works: Relevant for spatial information rooms.
+best_suited_for:
+- XR research
+- high-dimensional exploration
+limitations:
+- Report caveat – expert study with six researchers; clearly still experimental (transfer score 4); hardware and
+  usability immature.
+library_notes: []
+patterns:
+- pat-spatial-data-room
+keywords:
+- xr
+- immersive
+- embodied
+- 3d
+- experimental
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-052
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Deimos — MIT/Monash/Inria, CHI 2023 | Informations- und Interaktionsprinzip:
+    Embodied immersive Visualisierung mit dynamischen Morphs | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Relevant für räumliche Information Rooms; Expertenstudie mit sechs Forschern, noch deutlich experimentell. |
+    Innovation / Transfer: 10 / 4'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

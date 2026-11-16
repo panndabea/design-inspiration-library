@@ -1,0 +1,57 @@
+id: ref-seeing-theory
+title: Seeing Theory
+url: https://seeing-theory.brown.edu/
+creator: Daniel Kunin and team (Brown University)
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- math-education
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- chaptered visual textbook
+- D3 visualisations
+- calm colour palette
+interaction_patterns:
+- run experiments (coin flips
+- sampling)
+- adjust distributions
+description: Possibly one of the most successful interactive introductions to probability and statistics, with chapters
+  on basic probability, distributions, Bayesian inference and regression.
+why_it_works: Randomness becomes tangible because the learner runs the experiments.
+best_suited_for:
+- statistics and data literacy
+- uncertainty communication
+limitations: []
+library_notes: []
+patterns:
+- pat-sandbox-playground
+- pat-progressive-complexity-ladder
+- pat-what-if-simulation
+keywords:
+- statistics
+- probability
+- bayes
+- regression
+- d3
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-012
+  section: Top-Auswahl
+  excerpt: 'Projekt: Seeing Theory | Warum es herausragt: Wahrscheinlich eine der gelungensten interaktiven Einführungen
+    in Wahrscheinlichkeit und Statistik. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.: 9 | MLU: 9'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-026
+  section: Umfangreicher kuratierter Katalog / Mathematik, Statistik und komplexe Systeme
+  excerpt: 'Projekt: Seeing Theory | Thema & Besonderheit: Wahrscheinlichkeit & Statistik | Design / Interaktion:
+    D3-basierte Manipulationen über sechs Kapitel. | Ästh.: 9 | Int.: 10 | MLU: 9 | Typ: Sammlung'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

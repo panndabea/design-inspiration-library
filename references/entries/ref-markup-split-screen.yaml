@@ -1,0 +1,48 @@
+id: ref-markup-split-screen
+title: The Markup – Split Screen
+url: https://themarkup.org/2021-annual-report
+creator: The Markup
+source_reports:
+- beyond-dashboards
+categories:
+- comparison
+- data-journalism
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- two parallel feeds side by side
+interaction_patterns:
+- choose groups and compare parallel realities
+description: Comparison of algorithmic Facebook feeds across user groups.
+why_it_works: Juxtaposition of parallel realities makes differences visible instantly; transfers to segment/region/business-unit
+  comparison.
+best_suited_for:
+- scenario comparison
+- A/B or segment views
+- before/after
+limitations:
+- The report links an annual-report page rather than the project page itself.
+library_notes: []
+patterns:
+- pat-comparative-split-view
+keywords:
+- comparison
+- split view
+- parallel
+- segments
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-020
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: The Markup – Split Screen — The Markup | Informations- und Interaktionsprinzip:
+    Vergleich algorithmischer Facebook-Feeds nach Nutzergruppen | Beyond-Dashboard-Wert, Evidenz/Limitation und
+    Enterprise-Transfer: Besonders interessant als Gegenüberstellung paralleler Realitäten. Transfer: Segment-/Region-/Business-Unit-Vergleich.
+    | Innovation / Transfer: 9 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,57 @@
+id: ref-gan-lab
+title: GAN Lab
+url: https://poloclub.github.io/ganlab/
+creator: Polo Club / Google PAIR
+source_reports:
+- interactive-learning
+categories:
+- playground
+- ml-education
+- simulation
+design_language: research-native
+availability: live
+visual_characteristics:
+- live training visualisation
+- generator and discriminator side by side
+interaction_patterns:
+- train a model in the browser
+- play/pause/step
+- change hyperparameters
+description: Users train a GAN in the browser and watch generator and discriminator learn.
+why_it_works: Watching the learning process in real time turns an abstract training loop into an observable dynamic.
+best_suited_for:
+- AI education
+- process explainers
+- simulations of competing forces
+limitations: []
+library_notes:
+- Inference – live computation in the browser needs performance budgets and a paused default state.
+patterns:
+- pat-sandbox-playground
+- pat-comparative-split-view
+keywords:
+- gan
+- training
+- generative ai
+- simulation
+- live
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-022
+  section: Top-Auswahl
+  excerpt: 'Projekt: GAN Lab | Warum es herausragt: Man trainiert ein GAN im Browser und beobachtet Generator und
+    Diskriminator beim Lernen. | Ästh.: 9 | Int.: 10 | Did.: 10 | Orig.: 10 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-096
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: GAN Lab | Thema: GANs | Charakter: GANs im Browser trainieren. | Ästh.: 9 | Int.: 10 | MLU:
+    10 | Typ: Lab'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

@@ -1,0 +1,52 @@
+id: ref-mit-umwelt
+title: Umwelt
+url: https://vis.mit.edu/pubs/umwelt/
+creator: MIT Visualization Group (CHI 2024)
+source_reports:
+- beyond-dashboards
+categories:
+- accessibility
+- multimodal
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- visualisation
+- text description and sonification from one data model
+interaction_patterns:
+- switch and combine visual
+- textual and audio representations
+description: Visualisation, text and sonification generated from a shared data model.
+why_it_works: Breaks screen-first thinking and improves accessibility; a study with five blind/low-vision experts
+  showed complementary benefits of different modalities.
+best_suited_for:
+- accessible data products
+- public-sector sites
+- mobile and ambient contexts
+limitations:
+- Report caveat – multimodal representation has a high development effort.
+library_notes: []
+patterns:
+- pat-multimodal-representation
+keywords:
+- accessibility
+- sonification
+- screen reader
+- multimodal
+- blind
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-051
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Umwelt — MIT, CHI 2024 | Informations- und Interaktionsprinzip: Visualisierung,
+    Text und Sonifikation aus gemeinsamem Datenmodell | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Durchbricht „screen-first“-Denken und verbessert Accessibility. Studie mit fünf blinden/sehbehinderten Experten
+    zeigte komplementäre Vorteile verschiedener Modalitäten. | Innovation / Transfer: 10 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

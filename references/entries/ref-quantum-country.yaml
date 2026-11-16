@@ -1,0 +1,54 @@
+id: ref-quantum-country
+title: Quantum Computing for the Very Curious (Quantum Country)
+url: https://quantum.country/qcvc
+creator: Andy Matuschak & Michael Nielsen
+source_reports:
+- interactive-learning
+categories:
+- mnemonic-medium
+- visual-essay
+design_language: editorial-minimalist
+availability: live
+visual_characteristics:
+- long-form essay with embedded review cards
+interaction_patterns:
+- embedded recall questions
+- spaced repetition over time
+description: Essay plus embedded recall questions plus spaced repetition – a radical reinterpretation of the digital
+  textbook ("mnemonic medium").
+why_it_works: Learning continues after reading because memory is built into the medium.
+best_suited_for:
+- courses
+- onboarding
+- knowledge that must be retained
+limitations: []
+library_notes:
+- Inference – requires accounts/persistence for spaced repetition.
+patterns:
+- pat-mnemonic-medium
+keywords:
+- spaced repetition
+- memory
+- quantum
+- textbook
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-015
+  section: Top-Auswahl
+  excerpt: 'Projekt: Quantum Computing for the Very Curious | Warum es herausragt: Essay + interaktive Erinnerungsfragen
+    + Spaced Repetition; eine radikale Neuinterpretation des digitalen Lehrbuchs. | Ästh.: 9 | Int.: 8 | Did.: 10
+    | Orig.: 10 | MLU: 8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-073
+  section: Umfangreicher kuratierter Katalog / Physik, Technik, Erde und Naturwissenschaft
+  excerpt: 'Projekt: Quantum Computing for the Very Curious | Thema: Quantencomputer | Charakter: Langform-Essay
+    + integrierte Spaced-Repetition-Interaktion. | Ästh.: 9 | Int.: 8 | MLU: 8 | Typ: Interactive Essay'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

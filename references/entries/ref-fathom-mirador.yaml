@@ -1,0 +1,47 @@
+id: ref-fathom-mirador
+title: Mirador
+url: https://www.fathom.info/mirador/
+creator: Fathom / Broad Institute / Sabeti Lab
+source_reports:
+- beyond-dashboards
+categories:
+- data-exploration
+- research-tool
+design_language: research-native
+availability: live
+visual_characteristics:
+- high-dimensional data exploration views
+interaction_patterns:
+- search for patterns and associations rather than reading predefined KPIs
+description: Open-source exploratory analysis of high-dimensional data, used among others for clinical prognosis
+  analysis.
+why_it_works: Users look for patterns instead of reading predefined KPIs.
+best_suited_for:
+- exploratory analytics
+- research tools
+limitations: []
+library_notes: []
+patterns:
+- pat-narrate-then-explore
+- pat-multiple-perspectives
+keywords:
+- exploration
+- high-dimensional
+- open source
+- patterns
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-025
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Mirador — Fathom / Broad Institute / Sabeti Lab | Informations- und Interaktionsprinzip:
+    Explorative Analyse hochdimensionaler Daten | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Nutzer suchen Muster statt vorher definierte KPIs zu lesen. Open Source; wurde unter anderem für klinische Prognoseanalyse
+    genutzt. | Innovation / Transfer: 9 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

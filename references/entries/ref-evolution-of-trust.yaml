@@ -1,0 +1,57 @@
+id: ref-evolution-of-trust
+title: The Evolution of Trust
+url: https://ncase.me/trust/
+creator: Nicky Case
+source_reports:
+- interactive-learning
+categories:
+- playable-story
+- explorable-explanation
+design_language: playful-systemic
+availability: live
+visual_characteristics:
+- illustrated characters
+- game-like chapters
+interaction_patterns:
+- play rounds of a game
+- choose strategies
+- run tournaments
+description: Game theory becomes a playable story about cooperation and trust; one of Nicky Case's central explorables.
+why_it_works: The player experiences the dilemma first-hand before the model is explained.
+best_suited_for:
+- social/behavioural topics
+- ethics
+- systems thinking
+- public engagement
+limitations: []
+library_notes: []
+patterns:
+- pat-playable-story
+- pat-what-if-simulation
+keywords:
+- game theory
+- trust
+- cooperation
+- story
+- game
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-018
+  section: Top-Auswahl
+  excerpt: 'Projekt: The Evolution of Trust | Warum es herausragt: Spieltheorie wird zur spielbaren Geschichte über
+    Kooperation und Vertrauen. Nicky Case führt es als eines seiner zentralen Explorables. | Ästh.: 10 | Int.: 10
+    | Did.: 10 | Orig.: 10 | MLU: 8'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-110
+  section: Umfangreicher kuratierter Katalog / Biologie, Gesellschaft, Psychologie, Geschichte, Klima und Musik
+  excerpt: 'Projekt: The Evolution of Trust | Thema: Spieltheorie/Gesellschaft | Charakter: Kooperation durch spielbare
+    Situationen lernen. | Ästh.: 10 | Int.: 10 | MLU: 8 | Typ: Explorable Game'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

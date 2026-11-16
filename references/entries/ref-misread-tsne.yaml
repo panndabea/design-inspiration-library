@@ -1,0 +1,55 @@
+id: ref-misread-tsne
+title: How to Use t-SNE Effectively
+url: https://distill.pub/2016/misread-tsne/
+creator: Martin Wattenberg, Fernanda Viégas, Ian Johnson (Distill)
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- ml-education
+- research-publication
+design_language: research-native
+availability: archived
+visual_characteristics:
+- grids of small multiples showing the same algorithm on many data situations
+interaction_patterns:
+- change parameters and datasets and compare results
+description: An algorithm is not described but made experiential through many manipulated data situations.
+why_it_works: Small multiples plus parameter control expose where an algorithm misleads, which builds calibrated
+  trust.
+best_suited_for:
+- explaining model or algorithm behaviour
+- parameter sensitivity
+- data literacy
+limitations:
+- Report caveat – published on Distill, which is paused but archived.
+library_notes: []
+patterns:
+- pat-multiple-perspectives
+- pat-single-mechanism-explorable
+keywords:
+- t-sne
+- dimensionality reduction
+- small multiples
+- parameters
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-006
+  section: Top-Auswahl
+  excerpt: 'Projekt: How to Use t‑SNE Effectively | Warum es herausragt: Ein Algorithmus wird nicht beschrieben,
+    sondern durch zahlreiche manipulierte Datensituationen erfahrbar gemacht. | Ästh.: 9 | Int.: 10 | Did.: 10 |
+    Orig.: 10 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-080
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: How to Use t‑SNE Effectively | Thema: Dimensionality Reduction | Charakter: Parameter und Datensätze
+    interaktiv vergleichen. | Ästh.: 9 | Int.: 10 | MLU: 10 | Typ: Explorable Paper'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

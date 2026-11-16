@@ -1,0 +1,50 @@
+id: ref-tactical-tech-gafam-empire
+title: Tactical Tech – GAFAM Empire
+url: https://tacticaltech.org/projects/
+creator: Tactical Tech
+source_reports:
+- beyond-dashboards
+categories:
+- relationship-visualisation
+- timeline-history
+design_language: data-editorial
+availability: live
+visual_characteristics:
+- acquisitions as an expansion network
+interaction_patterns:
+- explore acquisitions as a relationship system
+description: Acquisitions by big-tech companies shown as a relationship and expansion system.
+why_it_works: Company development is shown as a network instead of a revenue chart; transfers to competitor, M&A
+  and ecosystem intelligence.
+best_suited_for:
+- market ecosystem maps
+- technology-trend explainers
+- M&A intelligence
+limitations:
+- The report links Tactical Tech's projects overview rather than the project page.
+library_notes: []
+patterns:
+- pat-relationship-graph
+- pat-annotated-timeline
+keywords:
+- acquisitions
+- big tech
+- ecosystem
+- network
+- technology
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-044
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: Tactical Tech – GAFAM Empire | Informations- und Interaktionsprinzip: Übernahmen
+    großer Tech-Konzerne als Beziehungs-/Expansionssystem | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Zeigt Unternehmensentwicklung als Netzwerk statt Umsatzchart. Transfer: Wettbewerber-, M&A- und Ecosystem Intelligence.
+    | Innovation / Transfer: 9 / 9'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

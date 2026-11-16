@@ -1,0 +1,51 @@
+id: ref-insightlens
+title: InsightLens
+url: https://arxiv.org/abs/2404.01644
+creator: Weng et al. (2024)
+source_reports:
+- beyond-dashboards
+categories:
+- ai-interface
+- insight-management
+- research-prototype
+design_language: research-native
+availability: research-prototype
+visual_characteristics:
+- organised insight collection alongside chat
+interaction_patterns:
+- automatic insight capture
+- organisation and navigation
+description: Automatic capture, organisation and navigation of insights from LLM-assisted analysis.
+why_it_works: Solves a core chat problem – insights do not disappear in the conversation stream; a study with twelve
+  analysts reported lower manual and cognitive effort; positive pattern for "Keep state persistent".
+best_suited_for:
+- AI workspaces
+- research tools
+- project knowledge
+limitations:
+- Report caveat – wrong summaries are the main risk of insight memory.
+library_notes: []
+patterns:
+- pat-persistent-insight-workspace
+keywords:
+- insights
+- chat history
+- llm
+- persistent state
+- analysts
+original_source_reference:
+- report: beyond-dashboards
+  file: research/original/beyond-dashboards/deep-research-report-19.md
+  raw_id: beyond-dashboards-058
+  section: Curated Inspiration Library
+  excerpt: 'Referenz, Urheber, Stand: InsightLens — Weng et al., 2024 | Informations- und Interaktionsprinzip: Automatische
+    Insight-Erfassung, Organisation und Navigation | Beyond-Dashboard-Wert, Evidenz/Limitation und Enterprise-Transfer:
+    Löst ein zentrales Chat-Problem: Erkenntnisse verschwinden nicht im Conversation Stream. Studie mit zwölf Analysten
+    berichtet geringeren manuellen/kognitiven Aufwand. | Innovation / Transfer: 10 / 10'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports

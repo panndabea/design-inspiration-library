@@ -1,0 +1,61 @@
+id: ref-pair-explorables
+title: Google PAIR AI Explorables
+url: https://pair.withgoogle.com/explorables/
+creator: Google PAIR
+source_reports:
+- interactive-learning
+categories:
+- explorable-explanation
+- ai-interface
+- ml-education
+design_language: research-native
+availability: live
+visual_characteristics:
+- high-quality interactive essays on AI concepts
+interaction_patterns:
+- manipulate model inputs and thresholds
+- inspect model internals
+description: Current AI concepts such as sparse autoencoders, grokking, model uncertainty and interpretability as
+  high-quality interactive essays.
+why_it_works: Human-centred AI topics become intuitive because readers probe model behaviour themselves.
+best_suited_for:
+- AI literacy
+- responsible-AI communication
+- explaining model uncertainty
+limitations: []
+library_notes: []
+patterns:
+- pat-inline-reactive-figure
+- pat-what-if-simulation
+keywords:
+- ai
+- interpretability
+- uncertainty
+- llm
+- explorables
+original_source_reference:
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-021
+  section: Top-Auswahl
+  excerpt: 'Projekt: Google PAIR AI Explorables | Warum es herausragt: Aktuelle KI-Konzepte wie Sparse Autoencoders,
+    Grokking und Interpretierbarkeit als hochwertige interaktive Essays. | Ästh.: 9 | Int.: 9 | Did.: 10 | Orig.:
+    9 | MLU: 10'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-100
+  section: Umfangreicher kuratierter Katalog / Informatik, KI und Machine Learning
+  excerpt: 'Projekt: PAIR AI Explorables | Thema: KI | Charakter: Fortlaufende Reihe hochwertiger ML-Explorables.
+    | Ästh.: 9 | Int.: 9 | MLU: 10 | Typ: Sammlung'
+- report: interactive-learning
+  file: research/original/interactive-learning/deep-research-report-18.md
+  raw_id: interactive-learning-146
+  section: Die wichtigsten Creators und Designsprachen
+  excerpt: '8. Google PAIR – Explorables: Human-Centered AI und Interpretierbarkeit.'
+verification:
+  status: url-live
+  http_code: 200
+  last_verified: '2026-11-16'
+  method: automated HTTP GET (scripts/check_urls.py)
+  visual: not-visually-verified
+  content_basis: report text only; descriptions paraphrase the research reports
